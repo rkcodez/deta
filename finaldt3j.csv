@@ -1,0 +1,431 @@
+﻿pdate,jdate,role,gender,age,cmths,ctc,exp,skill,reqid,rname,duration,minmax,branch
+20210203,20210209,Consultant,0,31,11.8,95834,8.4,SAP,61999379,"AKSHAY KRISHNA BATTULWAR	",6,Two to Four,Hyderabad
+20210124,20210218,System Administrator,0,44,6.37,175000,16,SAP,61957458,"KRISHNAKUMAR SUBRAMANI	",8,Four to Six,Chennai
+20210201,20210116,Network Administrator,0,28,6.6,70000,8,"Oracle Data Integrator (ODI) 11g, Oracle SOA 11g",61894726,"Kiran Siddaiah	",9,Four to Six,Ahmedabad
+20210110,20201216,Business Analyst,0,54,6.73,200000,29,ASP.NET 4.9,61998743,Sasikumar K,2,Four to Six,Kolkata
+20210208,20201228,Consultant,0,26,8.83,50000,3.3,Core .NET Technologies,61864387,"DEBRUP CHAKRABORTY	",8,Two to Four,Mumbai
+20210108,20210205,Analyst,0,34,5.9,91667,4.8,ASP.NET 4.6,61832106,"DEBRUP CHAKRABORTY	",8,Zero to Two,Bangalore
+20210126,20201214,Developer,0,31,12.13,104170,5.8,SQL Server 2012 Database Administration,61867720,"ANANDA RAMA MAHARAJAN N K	",21,Four to Six,Pune
+20210222,20210202,Support Executive,0,35,1.57,197000,10,BizTalk Server 2017,61986087,"KARAN VIJAYACHANDRAN NAIR	",1,Two to Four,New Delhi
+20210227,20210215,Support Executive,0,40,12.13,70833,6.2,SAP ERP Plant Maintenance (PM),61978279,"KARAN VIJAYACHANDRAN NAIR	",4,Two to Four,Varanasi
+20210222,20210115,Technical Lead,0,29,3.7,160000,3.3,BizTalk Server 2015,61999463,"ANANDA RAMA MAHARAJAN N K	",0,Zero to Two,Lucknow
+20210205,20210210,Modeller,0,38,12.13,20600,5,"ASP.NET 2.0, ASP.NET 4.10",61969816,"SUVAM SARKAR	",10,Two to Four,Bhubaneswar
+20210110,20210205,Developer,1,26,8.87,46000,3.3,SAP GRC Process Control (GRC-PC),61996022,"NEHA AGARWAL	",3,Four to Six,Indore
+20210205,20210216,Executive,0,25,6.43,240000,20,Application Integration Architecture,61999192,"ANANTHI S	",9,Four to Six,Kochi
+20210109,20210215,Business Analyst,1,34,12.13,44000,3.3,ASP.NET 4.5,61974948,"ARSHIYA FARHEEN	",4,Four to Six,Nagpur
+20210205,20201221,Developer,0,48,12.13,137500,1.2,ASP.NET 2.2,61987428,"VISHAL R R	",1,Two to Four,Delhi
+20210212,20210106,Engineer,0,39,12.13,56000,4.5,ASP.NET 2.3,61962524,"SNEHA V	",2,Six to Eight,Hyderabad
+20210123,20210116,Executive,0,29,12.13,54000,4.5,SQL Server 2012 Database Administration,61999391,"DEBA PRASAD BISWAL	",1,Four to Six,Chennai
+20210124,20210217,Consultant,0,45,12.07,183340,12.9,"ASP.NET 2.0, ASP.NET 4.9",61976418,"ANANTHI S	",13,Six to Eight,Ahmedabad
+20210208,20210107,Technical Lead,0,41,12.13,54170,14.2,ASP.NET 4.9,61971389,"SUVAM SARKAR	",1,Four to Six,Kolkata
+20210201,20210103,Engineer,0,30,6.07,78000,5.4,ASP.NET 2.3,61970901,"SUVAM SARKAR	",1,Four to Six,Mumbai
+20210210,20210208,Executive,0,30,5.57,23000,4,Master Data Management_Informatica (MDM),61962523,"SNEHA V	",2,Six to Eight,Bangalore
+20210101,20210124,System Administrator,0,22,3.87,29167,1.1,Analytics,61971409,"SUVAM SARKAR	",1,Four to Six,Pune
+20210130,20201230,System Administrator,0,26,11.77,62500,3.1,Oracle Hyperion Planning,61999874,"SUVAM SARKAR	",2,Four to Six,New Delhi
+20210227,20210111,Developer,0,29,12.13,58340,4.1,BizTalk Server 2017,61888216,"HARIPRAKASH RAMPRASAD SHARMA	",1,Four to Six,Varanasi
+20210216,20201212,Network Administrator,0,33,12.13,54170,7.3,"C++, Core Java",61998672,"RAJA RAMALINGAM	",7,Two to Four,Lucknow
+20210225,20210124,Support Executive,0,28,11.87,50000,4.8,ASP.NET 2.3,61978879,"RAJA RAMALINGAM	",0,Zero to Two,Bhubaneswar
+20210111,20210104,Analyst,0,25,3.4,41667,3,ASP.NET 4.6,61998729,"VINUTA BASAVARAJ PATTANASHETTI	",7,Two to Four,Indore
+20210209,20201215,System Administrator,0,32,12.13,41666,4.3,SAP ERP Plant Maintenance (PM),61965626,"SWETHA MURALI	",22,Four to Six,Kochi
+20210104,20210105,Functional Consultant,0,32,12.13,35000,4.6,ASP.NET 4.5,61994938,"VINUTA BASAVARAJ PATTANASHETTI	",8,Two to Four,Nagpur
+20210112,20210204,Consultant,0,33,5.07,81670,4.2,SAP Advanced Planning & Optimization (APO),61999681,"ANTO Nimmy STEAPHEN	",9,Four to Six,Delhi
+20210209,20201222,System Administrator,0,33,7.3,294000,7,SAP,61826753,"SULEKHA GANGULI	",2,Four to Six,Hyderabad
+20210213,20201226,Business Analyst,0,28,12.13,65000,5,BizTalk Server 2015,61858840,"SUVAM SARKAR	",3,Four to Six,Chennai
+20210201,20210116,Consultant,0,32,12.63,67500,4.4,Core .NET Technologies,61858839,"SUNDAR RAO KOKA	",8,Six to Eight,Ahmedabad
+20210206,20210203,Analyst,0,30,6.73,116667,7,Core Java,61938830,"SUNDAR RAO KOKA	",8,Six to Eight,Kolkata
+20210206,20201229,Executive,0,28,12.13,97920,5.2,"ASP.NET 2.0, ASP.NET 4.8",61998889,"SHIVANI PATEL	",7,Two to Four,Mumbai
+20210124,20201228,Modeller,0,34,12.13,116670,8.3,BizTalk Server 2013,61994940,"SHIVANI PATEL	",8,Two to Four,Bangalore
+20210125,20210213,Engineer,0,43,4.03,200000,16,SAP ERP Plant Maintenance (PM),61962255,"PANEERU HIMANSHU DORA	",8,Four to Six,Pune
+20210218,20210215,Executive,0,26,12.13,41670,3,#N/A,61950384,"Muthukarpagam Rajaram	",1,Four to Six,New Delhi
+20210107,20210208,System Administrator,0,29,1.9,79083,4.5,BizTalk Server 2014,61950385,"Muthukarpagam Rajaram	",1,Four to Six,Varanasi
+20210108,20201213,Technical Lead,1,31,12.13,50000,5,ASP.NET 2.4,61950426,"Muthukarpagam Rajaram	",1,Six to Eight,Lucknow
+20210204,20210129,Chief Risk and Compliance Officer,0,31,5.97,108334,6.3,ASP.NET 4.10,61950424,"Muthukarpagam Rajaram	",1,Six to Eight,Bhubaneswar
+20210227,20210214,Business Analyst,0,28,12.17,50000,4,"Oracle Data Integrator (ODI) 11g, Oracle SOA 11g",61950425,"Muthukarpagam Rajaram	",1,Six to Eight,Indore
+20210206,20210119,Engineer,1,32,2.97,154167,6.5,ASP.NET 2.3,61962792,"SNEHA V	",2,Zero to Two,Kochi
+20210208,20210201,Analyst,0,33,3.07,113750,5,BizTalk Server 2015,61998971,"SUDIKSHA CHAKRABORTY	",9,Two to Four,Nagpur
+20210212,20210107,System Administrator,0,30,3.1,104167,5,SAP GRC Process Control (GRC-PC),61999151,"Kiran Siddaiah	",0,Four to Six,Delhi
+20210120,20210204,Technical Lead,0,26,12.13,33000,3,SAP ERP Materials Management (MM),61997624,"ANTO Nimmy STEAPHEN	",1,Four to Six,Hyderabad
+20210116,20210113,Modeller,0,32,12.17,56333,4,BizTalk Server 2014,61999177,"PRIYANGA PALANISAMY	",0,Six to Eight,Chennai
+20210110,20210207,Network Administrator,0,39,12.5,308000,12,"PL/SQL, ASP.NET 4.11",61994387,"Zarna M Bhavsar	",1,Two to Four,Ahmedabad
+20210127,20201217,Executive,0,29,6.03,95833,4.5,ASP.NET 4.9,61900250,"Bindiya Ashara	",3,Ten and Above,Kolkata
+20210220,20201218,Chief Risk and Compliance Officer,0,28,12.6,70833,4.6,ASP.NET 2.0,61993426,"Bindiya Ashara	",3,Four to Six,Mumbai
+20210226,20210111,Executive,1,39,4.5,133334,7,"PL/SQL, ASP.NET 4.10",61829922,"KARISHMA MAHAJAN	",11,Ten and Above,Bangalore
+20210123,20210217,Support Executive,1,29,11.1,58334,4.6,#N/A,61919551,"SUVAM SARKAR	",0,Four to Six,Pune
+20210130,20201216,Functional Consultant,0,31,6.13,35870,5,ASP.NET 4.9,61999489,"VAISHNAVI MAHENDRA DATE	",0,Eight to Ten,New Delhi
+20210217,20201218,Modeller,0,29,4.93,100000,4.2,PL/SQL,61968156,"ANANDA RAMA MAHARAJAN N K	",22,Six to Eight,Varanasi
+20210209,20210111,Engineer,0,25,4.5,58334,3.3,"ASP.NET 2.0, ASP.NET 4.8",61999110,"KARAN VIJAYACHANDRAN NAIR	",2,Four to Six,Lucknow
+20210226,20201219,Developer,0,28,11.53,392414,3.3,SAP ERP Production Planning & Control Process Industry (PP PI),61971390,"SUVAM SARKAR	",1,Four to Six,Bhubaneswar
+20210216,20201223,System Administrator,0,40,5.97,135000,17,"PL/SQL, ASP.NET 4.11",61999305,"SUVAM SARKAR	",1,Four to Six,Indore
+20210210,20201214,System Administrator,0,25,5.1,55000,1.1,"PL/SQL, ASP.NET 4.8",61831581,"Biswajit Dash	",7,Four to Six,Kochi
+20210102,20201223,System Administrator,1,28,5.77,58000,2.5,"ASP.NET 2.0, ASP.NET 4.9",61859778,"SUVAM SARKAR	",1,Four to Six,Nagpur
+20210214,20210122,System Administrator,1,26,11.2,220000,2.7,Salesforce,61859764,"SUVAM SARKAR	",1,Four to Six,Delhi
+20210205,20201228,Business Analyst,0,32,11.57,26000,2.3,#N/A,61889235,"Biswajit Dash	",6,Four to Six,Hyderabad
+20210209,20201216,Modeller,0,28,6.23,62000,2.9,BizTalk Server 2018,61997645,"IPSITA MUKHERJEE	",2,Four to Six,Chennai
+20210120,20210101,Business Analyst,0,26,3.03,72917,4,BizTalk Server 2015,61969310,"NEHA AGARWAL	",1,Four to Six,Ahmedabad
+20210127,20201215,Chief Risk and Compliance Officer,0,44,11.27,251416,12,Analytics,61949060,"ARSHIYA FARHEEN	",4,Four to Six,Kolkata
+20210128,20210212,System Administrator,0,26,3.3,41667,3,SAP ERP Plant Maintenance (PM),61992807,"ARSHIYA FARHEEN	",12,Two to Four,Mumbai
+20210111,20210129,Executive,0,35,3.5,100000,10,ASP.NET 2.5,61999094,"KARTHIGEYAN S	",20,Four to Six,Bangalore
+20210121,20201214,Support Executive,0,27,12.13,60000,4.4,SAP Advanced Planning & Optimization (APO),61826351,"ARUSHI AGRAWAL	",3,Four to Six,Pune
+20210116,20201225,Executive,0,46,5.1,150000,15,"PL/SQL, ASP.NET 4.11",61976867,"PANEERU HIMANSHU DORA	",13,Four to Six,New Delhi
+20210103,20210108,Analyst,0,34,5.9,81670,6.3,"PL/SQL, ASP.NET 4.8",61996511,"SUVAM SARKAR	",10,Six to Eight,Varanasi
+20210228,20210105,Technical Lead,0,30,5.77,81670,4,"PL/SQL, ASP.NET 4.8",61998835,"AKSHAY KRISHNA BATTULWAR	",0,Two to Four,Lucknow
+20210210,20201215,Technical Lead,0,42,1,166667,12,SQL Server 2012 Database Administration,61942672,"ARUSHI AGRAWAL	",3,Six to Eight,Bhubaneswar
+20210226,20201213,Support Executive,0,27,6.17,25000,2.5,ASP.NET 4.6,61907079,"MANDALA DEDEEPYA	",3,Four to Six,Indore
+20210112,20210110,Analyst,0,25,5.13,110000,3.2,"ASP.NET 2.0, ASP.NET 4.10",61976398,"ANANTHI S	",13,Six to Eight,Kochi
+20210114,20201217,Engineer,0,30,3.97,112500,7.5,ASP.NET 2.0,61993105,"Sameera Pakki	",8,Eight to Ten,Nagpur
+20210127,20210112,System Administrator,0,35,10.07,68750,8,#N/A,61985459,"Sameera Pakki	",8,Eight to Ten,Delhi
+20210203,20210203,Chief Risk and Compliance Officer,1,24,4.73,54000,4.1,ASP.NET 2.4,61985796,"Sameera Pakki	",8,Eight to Ten,Hyderabad
+20210208,20210117,Business Analyst,0,21,12.13,20600,0,PL/SQL,61999095,"CHARU AGRAWAL	",4,Two to Four,Chennai
+20210131,20210113,Functional Consultant,0,31,3,62500,4.5,SAP ERP Materials Management (MM),61996977,"Sameera Pakki	",9,Eight to Ten,Ahmedabad
+20210108,20210203,Modeller,0,52,6.23,200000,20,Selenium,61996925,"Sameera Pakki	",9,Eight to Ten,Kolkata
+20210204,20210216,Executive,0,27,2.1,62292,3,"PL/SQL, ASP.NET 4.9",61996897,"Sameera Pakki	",9,Eight to Ten,Mumbai
+20210103,20210105,Chief Risk and Compliance Officer,0,33,5.03,146667,8,BizTalk Server 2013,61999080,"Partha Pratim Giri	",1,Four to Six,Bangalore
+20210107,20210206,Engineer,0,34,11.23,125000,5.8,ASP.NET 4.10,61965111,"PANEERU HIMANSHU DORA	",9,Four to Six,Pune
+20210220,20201229,Executive,0,29,11.03,62500,2.6,Core .NET Technologies,61983830,"MANDALA DEDEEPYA	",2,Four to Six,New Delhi
+20210214,20210201,Support Executive,0,24,12.13,29167,3.2,"ASP.NET 2.0, ASP.NET 4.8",61980175,"DEBA PRASAD BISWAL	",29,Two to Four,Varanasi
+20210215,20210204,Developer,0,29,5.2,35583,5,Core Java,61982799,"MANDALA DEDEEPYA	",3,Four to Six,Lucknow
+20210110,20210217,Consultant,0,41,1.97,275000,15,SQL Server 2012 Database Administration,61982801,"MANDALA DEDEEPYA	",3,Four to Six,Bhubaneswar
+20210116,20201218,Executive,0,28,11.57,174812,7.3,SQL Server 2012 Database Administration,61965112,"KRISHNAKUMAR SUBRAMANI	",9,Four to Six,Indore
+20210214,20210105,Executive,0,25,5.2,30000,5,BizTalk Server 2018,61982957,"SNEHA k N	",2,Four to Six,Kochi
+20210218,20210108,Technical Lead,0,40,3.97,112000,0.6,SAP ERP Materials Management (MM),61953060,"SULEKHA GANGULI	",5,Two to Four,Nagpur
+20210123,20201219,Engineer,1,27,12,75000,3.3,SAP ERP Plant Maintenance (PM),61998885,"SUGANYA SHANMUGAM	",2,Four to Six,Delhi
+20210128,20201229,Network Administrator,0,32,5.9,91667,6,"ASP.NET 2.0, ASP.NET 4.7",61996883,"USHALAKSHMI SRIDHARAN	",2,Four to Six,Hyderabad
+20210218,20210110,Modeller,0,24,12.4,188160,2.6,ASP.NET 4.6,61991091,"SNEHA k N	",12,Six to Eight,Chennai
+20210121,20210218,Functional Consultant,0,27,12.4,188160,4.3,"PL/SQL, ASP.NET 4.10",61996884,"USHALAKSHMI SRIDHARAN	",2,Four to Six,Ahmedabad
+20210201,20201212,System Administrator,0,43,5.9,91667,8.3,BizTalk Server 2018,61996927,"USHALAKSHMI SRIDHARAN	",2,Four to Six,Kolkata
+20210207,20210208,Network Administrator,0,29,6,116666,5.5,BizTalk Server 2013,61943592,"MANASA V	",9,Ten and Above,Mumbai
+20210101,20201222,System Administrator,0,28,12.13,75000,5,ASP.NET 2.4,61866384,"MANASA V	",12,Eight to Ten,Bangalore
+20210107,20201214,Engineer,1,31,1.07,67000,5.1,BizTalk Server 2014,61866060,"MANASA V	",11,Eight to Ten,Pune
+20210223,20210101,Technical Lead,0,37,11.33,125000,6,PL/SQL,61860680,"PRIYAMVADA RV	",3,Four to Six,New Delhi
+20210218,20201216,Analyst,0,28,6.07,44166,3.9,ASP.NET 4.8,61866385,"MANASA V	",12,Eight to Ten,Varanasi
+20210208,20210215,System Administrator,0,28,3.03,26666,1.3,ASP.NET 4.7,61951753,"MANASA V	",13,Four to Six,Lucknow
+20210217,20210121,Support Executive,0,32,2.17,166667,9.8,"ASP.NET 2.0, ASP.NET 4.8",61943528,"MANASA V	",9,Four to Six,Bhubaneswar
+20210208,20201230,Support Executive,0,25,6.3,45000,2,BizTalk Server 2016,61866059,"MANASA V	",11,Eight to Ten,Indore
+20210119,20210218,Executive,0,21,5.67,15000,0,Utilities - SAP FICA,61951752,"MANASA V	",13,Four to Six,Kochi
+20210109,20210213,Business Analyst,0,55,12.03,166667,10,Core Java,61904756,"MANASA V	",2,Six to Eight,Nagpur
+20210116,20201216,Functional Consultant,0,26,2.63,108333,4.3,"ASP.NET 2.0, ASP.NET 4.8",61924100,"MANASA V	",9,Eight to Ten,Delhi
+20210116,20201216,System Administrator,1,32,12.13,50000,4.2,"ASP.NET 2.0, ASP.NET 4.7",61998027,"SUNDAR RAO KOKA	",9,Eight to Ten,Hyderabad
+20210226,20210130,System Administrator,0,26,5.9,70000,5.1,BizTalk Server 2013,61873217,"SUNDAR RAO KOKA	",18,Six to Eight,Chennai
+20210124,20201221,Chief Risk and Compliance Officer,0,46,4.23,133334,10,BizTalk Server 2018,61982032,"Shruthi Mellacharuvu	",10,Four to Six,Ahmedabad
+20210220,20201220,Engineer,0,27,6.07,25000,2.4,ASP.NET 4.9,61969602,"S RAKESH	",9,Eight to Ten,Kolkata
+20210224,20201215,Analyst,1,39,6.7,108333,9.2,SAP Advanced Planning & Optimization (APO),61946866,"ANJIKA .	",6,Six to Eight,Mumbai
+20210201,20210216,Support Executive,1,26,11,40000,3,ASP.NET 4.7,61993478,"ANJIKA .	",9,Eight to Ten,Bangalore
+20210126,20201226,Technical Lead,1,34,9.83,62500,7,BizTalk Server 2018,61982761,"NITIN CHADHA	",1,Four to Six,Pune
+20210225,20210101,Engineer,0,26,12.13,42000,2.3,ASP.NET 2.0,61993480,"ANJIKA .	",9,Eight to Ten,New Delhi
+20210127,20201231,Modeller,0,34,9.3,55000,3.5,ASP.NET 2.2,61894748,"Biswajit Dash	",10,Four to Six,Varanasi
+20210201,20210215,Functional Consultant,0,32,3,62500,5,ASP.NET 4.8,61979552,"NITIN CHADHA	",1,Six to Eight,Lucknow
+20210220,20210126,Modeller,1,28,11,40000,2.6,"PL/SQL, ASP.NET 4.8",61998603,"AKSHAY KRISHNA BATTULWAR	",6,Two to Four,Bhubaneswar
+20210117,20210106,Support Executive,0,26,5.9,108334,5,PL/SQL,61996880,"SACHIN KUMAR DIVVEDA	",9,Four to Six,Indore
+20210129,20210130,Modeller,0,25,6.33,32000,4,"Oracle Data Integrator (ODI) 11g, Oracle SOA 11g",61929896,"DEBA PRASAD BISWAL	",0,Six to Eight,Kochi
+20210107,20210216,Support Executive,0,32,1.27,145833,10,SAP Advanced Planning & Optimization (APO),61998696,"Shruthi Mellacharuvu	",1,Four to Six,Nagpur
+20210201,20210120,Consultant,0,48,6,108334,21,Selenium,61843166,"PURNANAGA NAVEENBABU VANAPALLI	",1,Two to Four,Delhi
+20210129,20210210,Consultant,0,27,12.03,41667,5,Oracle Hyperion Planning,61976373,"Shruthi Mellacharuvu	",6,Four to Six,Hyderabad
+20210102,20210218,Business Analyst,0,49,1.77,200000,12.1,"PL/SQL, ASP.NET 4.9",61879956,"Rizwana Parween	",10,Two to Four,Chennai
+20210118,20210216,System Administrator,0,31,6.33,190000,7.5,BizTalk Server 2014,61945630,"SUNIDHI KANOONGO	",11,Two to Four,Ahmedabad
+20210113,20210109,Modeller,0,51,6.33,150000,19,BizTalk Server 2013,61814391,"HARIHARAN SRINIVASAN	",3,Two to Four,Kolkata
+20210207,20210207,Consultant,0,31,6.33,145000,10,PL/SQL,61992392,"PURNANAGA NAVEENBABU VANAPALLI	",12,Six to Eight,Mumbai
+20210227,20210124,Chief Risk and Compliance Officer,0,28,3,76667,4.2,SQL Server 2012 Database Administration,61954630,"SULEKHA GANGULI	",10,Four to Six,Bangalore
+20210125,20210104,Functional Consultant,0,22,7.37,17900,0,ASP.NET 2.2,61998551,"MONALISA DE	",9,Four to Six,Pune
+20210216,20210112,Consultant,0,34,2.1,146250,5.5,"ASP.NET 2.0, ASP.NET 4.7",61855991,"PRAVEEN SANKAR M	",5,Two to Four,New Delhi
+20210219,20210207,Chief Risk and Compliance Officer,0,47,6.03,162500,18,Oracle FMW Integration 11g,61997930,"ILAKKIYAVENDHAN KARUNAMOORTHY	",0,Two to Four,Varanasi
+20210205,20210116,Modeller,0,35,12.27,38750,8.3,ASP.NET 2.5,61997848,"KAJAL SARUPRIA	",9,Four to Six,Lucknow
+20210102,20201220,Consultant,1,30,6.33,54000,4.3,ASP.NET 2.5,61989982,"ANANDA RAMA MAHARAJAN N K	",9,Eight to Ten,Bhubaneswar
+20210107,20210209,Developer,0,28,11.03,66667,5.5,BizTalk Server 2014,61989981,"ANANDA RAMA MAHARAJAN N K	",9,Eight to Ten,Indore
+20210209,20210118,Technical Lead,0,27,3.03,50000,4.3,Utilities - SAP FICA,61997906,"ANJANA K	",9,Four to Six,Kochi
+20210206,20201215,Business Analyst,1,25,11.07,74250,3.8,ASP.NET 2.2,61986810,"ANANDA RAMA MAHARAJAN N K	",9,Six to Eight,Nagpur
+20210112,20201229,Analyst,0,35,3.27,125000,9.1,BizTalk Server 2015,61997457,"AKSHAY KRISHNA BATTULWAR	",9,Four to Six,Delhi
+20210130,20210115,Support Executive,0,28,12.03,72500,3.5,"ASP.NET 2.0, ASP.NET 4.7",61917637,"PRIYAMVADA RV	",3,Four to Six,Hyderabad
+20210125,20210123,Modeller,0,30,7.4,54000,4.2,ASP.NET 4.6,61994497,"ANJANA K	",25,Four to Six,Chennai
+20210222,20210117,Analyst,0,31,6.37,50000,4.3,ASP.NET 4.6,61998372,"LAKSHMI M	",0,Four to Six,Ahmedabad
+20210127,20210107,Developer,0,30,12.13,70834,4.7,"PL/SQL, ASP.NET 4.8",61989971,"AKSHAY KRISHNA BATTULWAR	",7,Four to Six,Kolkata
+20210228,20210125,Executive,0,28,12.13,56000,5.3,SQL Server 2012 Database Administration,61989970,"AKSHAY KRISHNA BATTULWAR	",7,Four to Six,Mumbai
+20210123,20210128,Functional Consultant,0,29,6,49000,6.3,"Oracle Data Integrator (ODI) 11g, Oracle SOA 11g",61996117,"Ronnie David Cherian	",1,Six to Eight,Bangalore
+20210119,20201222,Consultant,1,29,11,56000,5,"ASP.NET 2.0, ASP.NET 4.10",61955423,"VIJAY KUMAR RAI	",9,Six to Eight,Pune
+20210130,20201223,Business Analyst,1,27,11,58333,3.8,"ASP.NET 2.0, ASP.NET 4.10",61955424,"VIJAY KUMAR RAI	",9,Six to Eight,New Delhi
+20210110,20210102,Analyst,1,28,6,75000,5.9,BizTalk Server 2014,61955420,"VIJAY KUMAR RAI	",9,Six to Eight,Varanasi
+20210213,20210123,Functional Consultant,0,26,7.4,54166,3.5,"Oracle Data Integrator (ODI) 11g, Oracle SOA 11g",61955407,"VIJAY KUMAR RAI	",9,Two to Four,Lucknow
+20210213,20210106,Network Administrator,1,30,11.9,50000,3.3,Application Integration Architecture,61955730,"VIJAY KUMAR RAI	",9,Two to Four,Bhubaneswar
+20210112,20210201,Developer,0,27,5.33,30800,3,PL/SQL,61955363,"MUKESH PALANI	",2,Six to Eight,Indore
+20210124,20201221,Support Executive,0,29,4.2,45834,4.6,SAP ERP Plant Maintenance (PM),61998059,"MOUNIKA KAKI	",1,Six to Eight,Kochi
+20210127,20201212,Engineer,1,29,5.33,35000,5,ASP.NET 2.3,61998066,"MOUNIKA KAKI	",1,Six to Eight,Nagpur
+20210128,20201224,Technical Lead,0,27,11.03,73250,4.3,"PL/SQL, ASP.NET 4.10",61998048,"MOUNIKA KAKI	",1,Six to Eight,Delhi
+20210209,20210113,Support Executive,1,26,12.13,60000,3,ASP.NET 4.5,61998381,"SULEKHA GANGULI	",1,Four to Six,Hyderabad
+20210124,20210126,Business Analyst,0,35,12.13,75000,7,BizTalk Server 2014,61978049,"KAJAL SARUPRIA	",9,Six to Eight,Chennai
+20210201,20201217,Chief Risk and Compliance Officer,0,27,8.27,41667,3.3,ASP.NET 2.4,61996341,"AKSHAY KRISHNA BATTULWAR	",0,Two to Four,Ahmedabad
+20210102,20201219,Functional Consultant,0,27,10.87,31000,2,"PL/SQL, ASP.NET 4.10",61988028,"RAVIKANTH GAJULA	",4,Four to Six,Kolkata
+20210110,20201224,System Administrator,0,26,10.87,56000,3,Salesforce,61985949,"AKSHAY KRISHNA BATTULWAR	",9,Two to Four,Mumbai
+20210127,20210113,Developer,0,35,5.67,130000,5,#N/A,61980092,"A Sivakumar	",10,Two to Four,Bangalore
+20210205,20201221,Engineer,0,28,9.3,45000,4,SAP ERP Plant Maintenance (PM),61979439,"A Sivakumar	",10,Two to Four,Pune
+20210212,20210210,Technical Lead,0,40,1.03,116667,11,ASP.NET 2.3,61854851,"A Sivakumar	",8,Two to Four,New Delhi
+20210118,20210208,Developer,0,29,7.27,63870,5,"C++, Core Java",61820992,"A Sivakumar	",7,Two to Four,Varanasi
+20210115,20210215,Developer,0,25,11.1,43000,2.1,Salesforce,61972845,"A Sivakumar	",1,Two to Four,Lucknow
+20210206,20210105,Business Analyst,1,28,7.27,40840,3.1,SAP ERP Plant Maintenance (PM),61989220,"A Sivakumar	",1,Zero to Two,Bhubaneswar
+20210106,20201224,Support Executive,0,38,5.63,150000,6,SAP,61971264,"A Sivakumar	",1,Two to Four,Indore
+20210209,20210105,Developer,0,32,5.2,91700,8,BizTalk Server 2013,61934769,"SULEKHA GANGULI	",6,Four to Six,Kochi
+20210109,20210108,Support Executive,1,29,5.2,75000,4.3,BizTalk Server 2017,61905282,"VENKATA SAI MANOJ BABU DABBIRU	",3,Two to Four,Nagpur
+20210204,20210218,Analyst,0,33,0.53,60000,8,"PL/SQL, ASP.NET 4.11",61954953,"ANTO Nimmy STEAPHEN	",1,Six to Eight,Delhi
+20210103,20210104,Analyst,0,36,12.13,30000,5,Core Java,61984285,"NUTHAN PRASAD	",10,Two to Four,Hyderabad
+20210121,20210202,Developer,1,25,10.63,55000,3.1,ASP.NET 2.0,61963253,"SIVAKUMARAN RP	",8,Six to Eight,Chennai
+20210118,20210205,Consultant,0,27,0.57,60000,1.7,SQL Server 2012 Database Administration,61996834,"GEETA LINGWAL	",11,Four to Six,Ahmedabad
+20210216,20201213,Engineer,0,36,6.43,58334,6.5,"C++, Core Java",61996835,"GEETA LINGWAL	",11,Four to Six,Kolkata
+20210210,20210103,Network Administrator,0,39,5.4,190000,13,BizTalk Server 2017,61996827,"GEETA LINGWAL	",11,Four to Six,Mumbai
+20210112,20210120,Engineer,1,28,5.2,67000,5.5,ASP.NET 4.5,61996826,"GEETA LINGWAL	",11,Four to Six,Bangalore
+20210204,20210213,Technical Lead,0,26,12.5,143000,4,"ASP.NET 2.0, ASP.NET 4.7",61996806,"GEETA LINGWAL	",11,Four to Six,Pune
+20210220,20210204,Consultant,0,26,12.5,137632,5,BizTalk Server 2015,61996805,"GEETA LINGWAL	",11,Four to Six,New Delhi
+20210203,20210216,Modeller,0,25,12.5,140800,4,ASP.NET 4.8,61999379,"AKSHAY KRISHNA BATTULWAR	",6,Two to Four,Hyderabad
+20210124,20201226,Developer,1,28,12.13,48000,5,Application Integration Architecture,61957458,"KRISHNAKUMAR SUBRAMANI	",8,Four to Six,Chennai
+20210201,20201229,Chief Risk and Compliance Officer,0,39,11.8,216667,15.5,ASP.NET 2.0,61894726,"Kiran Siddaiah	",9,Four to Six,Ahmedabad
+20210110,20210131,Consultant,1,38,12.43,458334,12,Core .NET Technologies,61998743,Sasikumar K,2,Four to Six,Kolkata
+20210208,20210201,Network Administrator,0,31,12.13,46000,3,ASP.NET 2.2,61864387,"DEBRUP CHAKRABORTY	",8,Two to Four,Mumbai
+20210108,20210115,Modeller,0,43,12.13,32000,10,BizTalk Server 2015,61832106,"DEBRUP CHAKRABORTY	",8,Zero to Two,Bangalore
+20210126,20210109,Chief Risk and Compliance Officer,0,33,6.37,108334,7.2,ASP.NET 2.3,61867720,"ANANDA RAMA MAHARAJAN N K	",21,Four to Six,Pune
+20210222,20210205,Functional Consultant,0,54,1.37,191666,12,ASP.NET 4.9,61986087,"KARAN VIJAYACHANDRAN NAIR	",1,Two to Four,New Delhi
+20210227,20210130,Support Executive,0,26,3.87,54334,4,"ASP.NET 2.0, ASP.NET 4.8",61978279,"KARAN VIJAYACHANDRAN NAIR	",4,Two to Four,Varanasi
+20210222,20210123,Executive,0,30,6.47,50000,7,"PL/SQL, ASP.NET 4.11",61999463,"ANANDA RAMA MAHARAJAN N K	",0,Zero to Two,Lucknow
+20210205,20201216,System Administrator,1,29,11.1,108334,4,BizTalk Server 2014,61969816,"SUVAM SARKAR	",10,Two to Four,Bhubaneswar
+20210110,20210103,Functional Consultant,0,28,11.57,297000,5,ASP.NET 2.2,61996022,"NEHA AGARWAL	",3,Four to Six,Indore
+20210205,20210207,Technical Lead,0,38,11.73,352000,12,SQL Server 2012 Database Administration,61999192,"ANANTHI S	",9,Four to Six,Kochi
+20210109,20201223,Executive,0,26,5.43,50000,3.3,ASP.NET 2.2,61974948,"ARSHIYA FARHEEN	",4,Four to Six,Nagpur
+20210205,20201220,Chief Risk and Compliance Officer,1,28,6.47,32500,3,Master Data Management_Informatica (MDM),61987428,"VISHAL R R	",1,Two to Four,Delhi
+20210212,20210120,Executive,0,36,12.13,21700,11.3,"ASP.NET 2.0, ASP.NET 4.8",61962524,"SNEHA V	",2,Six to Eight,Hyderabad
+20210123,20210211,Network Administrator,1,27,5.8,59000,4.5,"PL/SQL, ASP.NET 4.11",61999391,"DEBA PRASAD BISWAL	",1,Four to Six,Chennai
+20210124,20201224,Consultant,0,23,5.13,17500,0,SQL Server 2012 Database Administration,61976418,"ANANTHI S	",13,Six to Eight,Ahmedabad
+20210208,20210212,Engineer,0,29,12.13,45833,4.2,Core .NET Technologies,61971389,"SUVAM SARKAR	",1,Four to Six,Kolkata
+20210201,20201216,Developer,0,29,12.13,137500,6.7,ASP.NET 4.9,61970901,"SUVAM SARKAR	",1,Four to Six,Mumbai
+20210210,20210202,Network Administrator,0,31,6.57,60245,4.3,SAP ERP Materials Management (MM),61962523,"SNEHA V	",2,Six to Eight,Bangalore
+20210101,20210113,Business Analyst,0,29,6.53,60000,4.4,ASP.NET 4.6,61971409,"SUVAM SARKAR	",1,Four to Six,Pune
+20210130,20201221,Support Executive,0,27,12.13,54167,4.2,BizTalk Server 2017,61999874,"SUVAM SARKAR	",2,Four to Six,New Delhi
+20210227,20201220,Engineer,1,31,11.8,207174,3.5,ASP.NET 2.2,61888216,"HARIPRAKASH RAMPRASAD SHARMA	",1,Four to Six,Varanasi
+20210216,20201230,Chief Risk and Compliance Officer,0,28,11.33,95834,4.1,ASP.NET 4.5,61998672,"RAJA RAMALINGAM	",7,Two to Four,Lucknow
+20210225,20201229,Technical Lead,0,25,11.97,62500,3.4,"Oracle Data Integrator (ODI) 11g, Oracle SOA 11g",61978879,"RAJA RAMALINGAM	",0,Zero to Two,Bhubaneswar
+20210111,20201223,Engineer,1,30,7.57,83334,7,"ASP.NET 2.0, ASP.NET 4.9",61998729,"VINUTA BASAVARAJ PATTANASHETTI	",7,Two to Four,Indore
+20210209,20201217,Executive,0,32,3,83333,6,"Oracle Data Integrator (ODI) 11g, Oracle SOA 11g",61965626,"SWETHA MURALI	",22,Four to Six,Kochi
+20210104,20210114,Executive,0,36,3.03,54167,11,ASP.NET 2.5,61994938,"VINUTA BASAVARAJ PATTANASHETTI	",8,Two to Four,Nagpur
+20210112,20210123,Executive,0,36,4.93,92084,8,SAP GRC Process Control (GRC-PC),61999681,"ANTO Nimmy STEAPHEN	",9,Four to Six,Delhi
+20210209,20210129,Business Analyst,0,26,3.03,64167,4.6,Core .NET Technologies,61826753,"SULEKHA GANGULI	",2,Four to Six,Hyderabad
+20210213,20210212,Network Administrator,0,49,6.03,250000,16.7,ASP.NET 2.5,61858840,"SUVAM SARKAR	",3,Four to Six,Chennai
+20210201,20210218,Business Analyst,1,38,5.9,55000,7.5,ASP.NET 2.4,61858839,"SUNDAR RAO KOKA	",8,Six to Eight,Ahmedabad
+20210206,20210113,Business Analyst,0,23,12.13,19600,1.3,Oracle FMW Integration 11g,61938830,"SUNDAR RAO KOKA	",8,Six to Eight,Kolkata
+20210206,20210109,Modeller,0,28,11,65000,5.4,"ASP.NET 2.0, ASP.NET 4.9",61998889,"SHIVANI PATEL	",7,Two to Four,Mumbai
+20210124,20210214,Developer,1,26,6.37,55000,4.3,"PL/SQL, ASP.NET 4.11",61994940,"SHIVANI PATEL	",8,Two to Four,Bangalore
+20210125,20201213,Engineer,1,32,11.47,50000,5.5,ASP.NET 2.4,61962255,"PANEERU HIMANSHU DORA	",8,Four to Six,Pune
+20210218,20210213,Analyst,0,30,12.03,112500,5.6,ASP.NET 4.10,61950384,"Muthukarpagam Rajaram	",1,Four to Six,New Delhi
+20210107,20210208,Developer,0,24,3.53,19167,2,Master Data Management_Informatica (MDM),61950385,"Muthukarpagam Rajaram	",1,Four to Six,Varanasi
+20210108,20210110,Technical Lead,0,34,12.13,20600,2,PL/SQL,61950426,"Muthukarpagam Rajaram	",1,Six to Eight,Lucknow
+20210204,20210106,Consultant,0,29,5.5,48000,5,Oracle Hyperion Planning,61950424,"Muthukarpagam Rajaram	",1,Six to Eight,Bhubaneswar
+20210227,20210211,Support Executive,0,25,3.5,59584,2.5,Salesforce,61950425,"Muthukarpagam Rajaram	",1,Six to Eight,Indore
+20210206,20210111,Chief Risk and Compliance Officer,0,27,6.23,76667,3.8,BizTalk Server 2013,61962792,"SNEHA V	",2,Zero to Two,Kochi
+20210208,20210115,Executive,0,32,1.4,183334,7,Analytics,61998971,"SUDIKSHA CHAKRABORTY	",9,Two to Four,Nagpur
+20210212,20210126,Chief Risk and Compliance Officer,1,34,2.87,124000,12.1,ASP.NET 4.6,61999151,"Kiran Siddaiah	",0,Four to Six,Delhi
+20210120,20210216,Engineer,1,29,5.3,62000,4,ASP.NET 2.1,61997624,"ANTO Nimmy STEAPHEN	",1,Four to Six,Hyderabad
+20210116,20201228,Support Executive,0,26,16.6,23000,2.5,Salesforce,61999177,"PRIYANGA PALANISAMY	",0,Six to Eight,Chennai
+20210110,20210204,Analyst,1,45,7.63,112500,6.3,ASP.NET 2.3,61994387,"Zarna M Bhavsar	",1,Two to Four,Ahmedabad
+20210127,20210107,Consultant,1,25,4.87,69167,4,SAP ERP Production Planning & Control Process Industry (PP PI),61900250,"Bindiya Ashara	",3,Ten and Above,Kolkata
+20210220,20210210,Business Analyst,1,35,3,70000,5.8,Application Integration Architecture,61993426,"Bindiya Ashara	",3,Four to Six,Mumbai
+20210226,20201227,Engineer,0,27,3,66667,4.3,Selenium,61829922,"KARISHMA MAHAJAN	",11,Ten and Above,Bangalore
+20210123,20210114,Modeller,0,26,12.83,40000,3.6,"ASP.NET 2.0, ASP.NET 4.8",61919551,"SUVAM SARKAR	",0,Four to Six,Pune
+20210130,20210126,Functional Consultant,0,28,6.57,75000,5,ASP.NET 2.3,61999489,"VAISHNAVI MAHENDRA DATE	",0,Eight to Ten,New Delhi
+20210217,20210214,Technical Lead,1,25,12.13,34000,1.5,Core .NET Technologies,61968156,"ANANDA RAMA MAHARAJAN N K	",22,Six to Eight,Varanasi
+20210209,20210109,Support Executive,0,29,6.57,60000,3.3,SQL Server 2012 Database Administration,61999110,"KARAN VIJAYACHANDRAN NAIR	",2,Four to Six,Lucknow
+20210226,20210118,Business Analyst,0,35,12.63,352462,13,ASP.NET 2.5,61971390,"SUVAM SARKAR	",1,Four to Six,Bhubaneswar
+20210216,20210127,Support Executive,0,27,12.03,54167,3.7,Utilities - SAP FICA,61999305,"SUVAM SARKAR	",1,Four to Six,Indore
+20210210,20210211,Executive,1,27,12.67,62500,4.3,Oracle FMW Integration 11g,61831581,"Biswajit Dash	",7,Four to Six,Kochi
+20210102,20201228,Functional Consultant,0,29,6.03,60000,5.3,ASP.NET 2.3,61999379,"AKSHAY KRISHNA BATTULWAR	",6,Two to Four,Hyderabad
+20210214,20210117,Executive,0,28,12.5,60000,5.3,SAP GRC Process Control (GRC-PC),61957458,"KRISHNAKUMAR SUBRAMANI	",8,Four to Six,Chennai
+20210205,20201221,Modeller,0,27,0.5,54167,4,"PL/SQL, ASP.NET 4.9",61894726,"Kiran Siddaiah	",9,Four to Six,Ahmedabad
+20210209,20210206,Chief Risk and Compliance Officer,0,24,12.13,29167,2,"PL/SQL, ASP.NET 4.8",61998743,Sasikumar K,2,Four to Six,Kolkata
+20210120,20201227,Functional Consultant,0,25,12.5,54167,3.6,Master Data Management_Informatica (MDM),61864387,"DEBRUP CHAKRABORTY	",8,Two to Four,Mumbai
+20210127,20201215,Modeller,0,36,12.63,352462,13,Oracle Hyperion Planning,61832106,"DEBRUP CHAKRABORTY	",8,Zero to Two,Bangalore
+20210128,20210101,Business Analyst,0,37,12.63,352462,13,ASP.NET 2.2,61867720,"ANANDA RAMA MAHARAJAN N K	",21,Four to Six,Pune
+20210111,20201216,Consultant,0,34,12.63,352462,11.8,BizTalk Server 2015,61986087,"KARAN VIJAYACHANDRAN NAIR	",1,Two to Four,New Delhi
+20210121,20210126,Business Analyst,0,25,7.67,45500,2.1,Utilities - SAP FICA,61978279,"KARAN VIJAYACHANDRAN NAIR	",4,Two to Four,Varanasi
+20210116,20210207,Chief Risk and Compliance Officer,0,31,12.63,326348,7,BizTalk Server 2017,61999463,"ANANDA RAMA MAHARAJAN N K	",0,Zero to Two,Lucknow
+20210103,20210115,Support Executive,0,24,12.7,190872,1.4,ASP.NET 2.2,61969816,"SUVAM SARKAR	",10,Two to Four,Bhubaneswar
+20210228,20210118,Chief Risk and Compliance Officer,0,26,8.97,54500,3.3,"ASP.NET 2.0, ASP.NET 4.10",61996022,"NEHA AGARWAL	",3,Four to Six,Indore
+20210210,20210214,Technical Lead,0,25,6.47,27500,3,SAP Advanced Planning & Optimization (APO),61999192,"ANANTHI S	",9,Four to Six,Kochi
+20210226,20210130,Modeller,0,33,12.53,116667,9.4,ASP.NET 4.10,61974948,"ARSHIYA FARHEEN	",4,Four to Six,Nagpur
+20210112,20201223,Consultant,1,32,5.57,70000,4,#N/A,61987428,"VISHAL R R	",1,Two to Four,Delhi
+20210114,20201222,Consultant,0,55,4.33,227500,16.7,ASP.NET 2.0,61962524,"SNEHA V	",2,Six to Eight,Hyderabad
+20210127,20210131,Executive,0,35,5.9,195000,8.8,SAP GRC Process Control (GRC-PC),61999391,"DEBA PRASAD BISWAL	",1,Four to Six,Chennai
+20210203,20210122,System Administrator,0,30,11.8,336600,5,BizTalk Server 2018,61976418,"ANANTHI S	",13,Six to Eight,Ahmedabad
+20210208,20210115,Developer,0,32,6,164000,4.5,Oracle FMW Integration 11g,61971389,"SUVAM SARKAR	",1,Four to Six,Kolkata
+20210131,20210106,Modeller,0,35,4.43,78000,9,ASP.NET 2.0,61970901,"SUVAM SARKAR	",1,Four to Six,Mumbai
+20210108,20210109,Support Executive,1,30,4.43,76000,9,ServiceNow,61962523,"SNEHA V	",2,Six to Eight,Bangalore
+20210204,20210214,Functional Consultant,0,31,11.77,166254,3.4,ASP.NET 4.5,61971409,"SUVAM SARKAR	",1,Four to Six,Pune
+20210103,20210108,Analyst,0,30,12.03,66670,4.6,SAP Advanced Planning & Optimization (APO),61999874,"SUVAM SARKAR	",2,Four to Six,New Delhi
+20210107,20210127,Support Executive,0,48,2.4,183334,16.7,"ASP.NET 2.0, ASP.NET 4.8",61888216,"HARIPRAKASH RAMPRASAD SHARMA	",1,Four to Six,Varanasi
+20210220,20210210,Executive,1,24,10.3,33500,3.4,BizTalk Server 2016,61998672,"RAJA RAMALINGAM	",7,Two to Four,Lucknow
+20210214,20210119,Functional Consultant,1,31,10.07,67000,6,ASP.NET 4.7,61978879,"RAJA RAMALINGAM	",0,Zero to Two,Bhubaneswar
+20210215,20210204,Executive,0,25,11.73,176000,2.4,ASP.NET 2.3,61998729,"VINUTA BASAVARAJ PATTANASHETTI	",7,Two to Four,Indore
+20210110,20210202,Network Administrator,1,28,12.13,79000,5.5,ASP.NET 4.10,61965626,"SWETHA MURALI	",22,Four to Six,Kochi
+20210116,20210129,Technical Lead,0,43,5.83,190000,15.5,Salesforce,61994938,"VINUTA BASAVARAJ PATTANASHETTI	",8,Two to Four,Nagpur
+20210214,20210122,Consultant,1,32,4.2,73000,7.5,ASP.NET 4.7,61999681,"ANTO Nimmy STEAPHEN	",9,Four to Six,Delhi
+20210218,20201223,Technical Lead,1,27,6.67,102000,3.8,ServiceNow,61826753,"SULEKHA GANGULI	",2,Four to Six,Hyderabad
+20210123,20201222,Consultant,0,51,7.03,265000,20,BizTalk Server 2017,61858840,"SUVAM SARKAR	",3,Four to Six,Chennai
+20210128,20210123,Support Executive,0,39,4.93,170000,4.2,ASP.NET 4.9,61858839,"SUNDAR RAO KOKA	",8,Six to Eight,Ahmedabad
+20210218,20201227,System Administrator,0,29,6.73,145000,4,"PL/SQL, ASP.NET 4.8",61938830,"SUNDAR RAO KOKA	",8,Six to Eight,Kolkata
+20210121,20210111,System Administrator,1,26,5.2,41666,5,ASP.NET 2.5,61998889,"SHIVANI PATEL	",7,Two to Four,Mumbai
+20210201,20210122,Network Administrator,0,25,12.13,19600,1,ASP.NET 2.5,61994940,"SHIVANI PATEL	",8,Two to Four,Bangalore
+20210207,20210118,Executive,0,25,5.7,30834,3,ASP.NET 2.3,61962255,"PANEERU HIMANSHU DORA	",8,Four to Six,Pune
+20210101,20201227,Analyst,0,29,5.6,75000,4,ASP.NET 2.4,61950384,"Muthukarpagam Rajaram	",1,Four to Six,New Delhi
+20210107,20210202,Modeller,0,28,5.6,37500,5,BizTalk Server 2016,61950385,"Muthukarpagam Rajaram	",1,Four to Six,Varanasi
+20210223,20210217,Business Analyst,1,27,1.47,33333,4,ASP.NET 2.5,61950426,"Muthukarpagam Rajaram	",1,Six to Eight,Lucknow
+20210218,20210129,System Administrator,0,36,4.43,112500,8,BizTalk Server 2015,61950424,"Muthukarpagam Rajaram	",1,Six to Eight,Bhubaneswar
+20210208,20210212,Executive,0,25,4.5,50000,2.5,"C++, Core Java",61950425,"Muthukarpagam Rajaram	",1,Six to Eight,Indore
+20210217,20201228,Chief Risk and Compliance Officer,1,38,3.4,100000,8,#N/A,61962792,"SNEHA V	",2,Zero to Two,Kochi
+20210208,20210121,Technical Lead,0,39,2.97,95000,8.2,ASP.NET 2.1,61998971,"SUDIKSHA CHAKRABORTY	",9,Two to Four,Nagpur
+20210119,20210108,Chief Risk and Compliance Officer,1,26,5.6,58333,3,BizTalk Server 2017,61999151,"Kiran Siddaiah	",0,Four to Six,Delhi
+20210109,20210205,Analyst,0,28,12.13,19600,0,Oracle Hyperion Planning,61997624,"ANTO Nimmy STEAPHEN	",1,Four to Six,Hyderabad
+20210116,20201216,Network Administrator,0,28,12.13,19600,2,ASP.NET 2.1,61999177,"PRIYANGA PALANISAMY	",0,Six to Eight,Chennai
+20210116,20210112,Modeller,0,27,14.77,29167,2.6,Selenium,61994387,"Zarna M Bhavsar	",1,Two to Four,Ahmedabad
+20210226,20210203,Engineer,0,50,4.83,175000,12.9,Core Java,61900250,"Bindiya Ashara	",3,Ten and Above,Kolkata
+20210124,20201212,Engineer,0,27,11.1,40500,3,Application Integration Architecture,61993426,"Bindiya Ashara	",3,Four to Six,Mumbai
+20210220,20210208,Technical Lead,1,37,6.03,150000,11.5,Master Data Management_Informatica (MDM),61829922,"KARISHMA MAHAJAN	",11,Ten and Above,Bangalore
+20210224,20210126,Developer,0,32,3,46667,3.3,"ASP.NET 2.0, ASP.NET 4.9",61919551,"SUVAM SARKAR	",0,Four to Six,Pune
+20210201,20210115,Functional Consultant,1,34,2.93,40000,4.5,ServiceNow,61999489,"VAISHNAVI MAHENDRA DATE	",0,Eight to Ten,New Delhi
+20210126,20210123,Technical Lead,0,27,12.6,36675,3.3,SAP GRC Process Control (GRC-PC),61968156,"ANANDA RAMA MAHARAJAN N K	",22,Six to Eight,Varanasi
+20210225,20210103,Technical Lead,0,27,3.03,70833,4,BizTalk Server 2018,61999110,"KARAN VIJAYACHANDRAN NAIR	",2,Four to Six,Lucknow
+20210127,20210117,Consultant,1,30,12.13,20600,4,Master Data Management_Informatica (MDM),61971390,"SUVAM SARKAR	",1,Four to Six,Bhubaneswar
+20210201,20210113,Network Administrator,1,30,5.63,43750,4.3,BizTalk Server 2015,61999305,"SUVAM SARKAR	",1,Four to Six,Indore
+20210220,20201215,Business Analyst,1,27,5.63,29166,3.3,SAP ERP Materials Management (MM),61831581,"Biswajit Dash	",7,Four to Six,Kochi
+20210117,20210114,Functional Consultant,1,34,11.57,133334,7,Oracle FMW Integration 11g,61999379,"AKSHAY KRISHNA BATTULWAR	",6,Two to Four,Hyderabad
+20210129,20210209,Developer,0,28,2.53,19800,1.3,ASP.NET 4.5,61957458,"KRISHNAKUMAR SUBRAMANI	",8,Four to Six,Chennai
+20210107,20210203,Consultant,0,37,2.47,112500,7.1,SAP ERP Materials Management (MM),61894726,"Kiran Siddaiah	",9,Four to Six,Ahmedabad
+20210201,20210117,Technical Lead,0,24,12.13,21000,2,BizTalk Server 2015,61998743,Sasikumar K,2,Four to Six,Kolkata
+20210129,20210123,Support Executive,1,28,7.73,54167,4.7,SAP ERP Plant Maintenance (PM),61864387,"DEBRUP CHAKRABORTY	",8,Two to Four,Mumbai
+20210102,20210116,Business Analyst,0,26,6.37,33333,3.4,Core Java,61832106,"DEBRUP CHAKRABORTY	",8,Zero to Two,Bangalore
+20210118,20210207,Business Analyst,0,26,3.1,43900,4,ASP.NET 4.7,61867720,"ANANDA RAMA MAHARAJAN N K	",21,Four to Six,Pune
+20210113,20201224,Network Administrator,1,32,3.57,124000,9,SAP GRC Process Control (GRC-PC),61986087,"KARAN VIJAYACHANDRAN NAIR	",1,Two to Four,New Delhi
+20210207,20210214,Functional Consultant,0,41,3.33,120000,10.4,ASP.NET 2.0,61978279,"KARAN VIJAYACHANDRAN NAIR	",4,Two to Four,Varanasi
+20210227,20210123,Technical Lead,0,25,3.1,58500,3.5,BizTalk Server 2016,61999463,"ANANDA RAMA MAHARAJAN N K	",0,Zero to Two,Lucknow
+20210125,20210126,Engineer,1,28,12.03,68340,3.2,Core .NET Technologies,61969816,"SUVAM SARKAR	",10,Two to Four,Bhubaneswar
+20210216,20210113,Network Administrator,0,34,12.13,25000,4.7,PL/SQL,61996022,"NEHA AGARWAL	",3,Four to Six,Indore
+20210219,20201220,System Administrator,0,27,12.27,41667,3,"ASP.NET 2.0, ASP.NET 4.10",61999192,"ANANTHI S	",9,Four to Six,Kochi
+20210205,20210214,Support Executive,0,37,10.77,137500,10,"PL/SQL, ASP.NET 4.11",61974948,"ARSHIYA FARHEEN	",4,Four to Six,Nagpur
+20210102,20210203,Network Administrator,0,38,5.83,150000,12.1,"ASP.NET 2.0, ASP.NET 4.7",61987428,"VISHAL R R	",1,Two to Four,Delhi
+20210107,20210216,Modeller,0,39,7.93,130000,15,"PL/SQL, ASP.NET 4.9",61962524,"SNEHA V	",2,Six to Eight,Hyderabad
+20210209,20210116,Consultant,0,26,6.67,66667,3.2,SAP ERP Production Planning & Control Process Industry (PP PI),61999391,"DEBA PRASAD BISWAL	",1,Four to Six,Chennai
+20210206,20210210,Engineer,1,31,12.13,59000,4.8,#N/A,61976418,"ANANTHI S	",13,Six to Eight,Ahmedabad
+20210112,20210120,Network Administrator,0,34,5.6,150000,8.2,ASP.NET 4.8,61971389,"SUVAM SARKAR	",1,Four to Six,Kolkata
+20210130,20201212,System Administrator,0,29,6,62500,6,SAP ERP Plant Maintenance (PM),61970901,"SUVAM SARKAR	",1,Four to Six,Mumbai
+20210125,20210113,Developer,0,34,7.77,200000,9.2,ASP.NET 4.7,61962523,"SNEHA V	",2,Six to Eight,Bangalore
+20210222,20210207,Business Analyst,0,26,11.57,62500,3.6,BizTalk Server 2018,61971409,"SUVAM SARKAR	",1,Four to Six,Pune
+20210127,20210130,Functional Consultant,0,30,2.6,19000,1.5,BizTalk Server 2013,61999874,"SUVAM SARKAR	",2,Four to Six,New Delhi
+20210228,20210112,Chief Risk and Compliance Officer,0,31,2.6,18400,1.3,Selenium,61888216,"HARIPRAKASH RAMPRASAD SHARMA	",1,Four to Six,Varanasi
+20210123,20201220,Consultant,0,36,5.13,166667,10,Oracle FMW Integration 11g,61998672,"RAJA RAMALINGAM	",7,Two to Four,Lucknow
+20210119,20201222,Developer,0,38,3.33,112500,14,Utilities - SAP FICA,61978879,"RAJA RAMALINGAM	",0,Zero to Two,Bhubaneswar
+20210130,20210204,Modeller,0,37,2.63,158334,14,"ASP.NET 2.0, ASP.NET 4.8",61998729,"VINUTA BASAVARAJ PATTANASHETTI	",7,Two to Four,Indore
+20210110,20210121,Engineer,0,27,2.87,43334,3.8,#N/A,61965626,"SWETHA MURALI	",22,Four to Six,Kochi
+20210213,20201222,Functional Consultant,0,25,6.13,14200,0,"ASP.NET 2.0, ASP.NET 4.7",61994938,"VINUTA BASAVARAJ PATTANASHETTI	",8,Two to Four,Nagpur
+20210213,20210118,Support Executive,0,26,12.13,50000,4,ASP.NET 4.5,61999681,"ANTO Nimmy STEAPHEN	",9,Four to Six,Delhi
+20210112,20210123,Functional Consultant,0,35,4.67,14000,0.5,PL/SQL,61826753,"SULEKHA GANGULI	",2,Four to Six,Hyderabad
+20210124,20201231,Chief Risk and Compliance Officer,0,34,3,100000,12,Selenium,61858840,"SUVAM SARKAR	",3,Four to Six,Chennai
+20210127,20210107,Support Executive,0,32,12.87,253000,5,ASP.NET 2.1,61858839,"SUNDAR RAO KOKA	",8,Six to Eight,Ahmedabad
+20210128,20201231,Support Executive,0,29,6.03,34167,4,SAP,61938830,"SUNDAR RAO KOKA	",8,Six to Eight,Kolkata
+20210209,20201225,System Administrator,0,31,12.73,65000,5.4,"ASP.NET 2.0, ASP.NET 4.10",61998889,"SHIVANI PATEL	",7,Two to Four,Mumbai
+20210124,20210126,Functional Consultant,0,52,6.03,208334,20,BizTalk Server 2014,61994940,"SHIVANI PATEL	",8,Two to Four,Bangalore
+20210201,20210108,Analyst,1,31,6,45000,4,ASP.NET 2.2,61962255,"PANEERU HIMANSHU DORA	",8,Four to Six,Pune
+20210102,20201221,Engineer,0,28,12.73,264330,3.4,"PL/SQL, ASP.NET 4.8",61950384,"Muthukarpagam Rajaram	",1,Four to Six,New Delhi
+20210110,20201213,Functional Consultant,0,28,3.43,108333,4,"ASP.NET 2.0, ASP.NET 4.9",61950385,"Muthukarpagam Rajaram	",1,Four to Six,Varanasi
+20210127,20210129,Engineer,0,20,12.13,18350,1,ASP.NET 2.0,61950426,"Muthukarpagam Rajaram	",1,Six to Eight,Lucknow
+20210205,20201221,Functional Consultant,0,32,1.6,56667,5.2,"ASP.NET 2.0, ASP.NET 4.8",61950424,"Muthukarpagam Rajaram	",1,Six to Eight,Bhubaneswar
+20210212,20210102,Technical Lead,0,48,2.33,191667,15,Application Integration Architecture,61950425,"Muthukarpagam Rajaram	",1,Six to Eight,Indore
+20210118,20210130,Executive,0,31,2.93,78333,7,ASP.NET 4.9,61962792,"SNEHA V	",2,Zero to Two,Kochi
+20210115,20210108,Support Executive,0,28,5.73,100000,4.6,SQL Server 2012 Database Administration,61998971,"SUDIKSHA CHAKRABORTY	",9,Two to Four,Nagpur
+20210206,20210211,Business Analyst,0,29,1.6,66667,3.9,"ASP.NET 2.0, ASP.NET 4.8",61999151,"Kiran Siddaiah	",0,Four to Six,Delhi
+20210106,20210216,Business Analyst,0,32,1.57,87500,5.8,ASP.NET 4.9,61997624,"ANTO Nimmy STEAPHEN	",1,Four to Six,Hyderabad
+20210209,20210211,Business Analyst,0,39,6.57,56000,4.3,ASP.NET 2.2,61999177,"PRIYANGA PALANISAMY	",0,Six to Eight,Chennai
+20210109,20210130,Business Analyst,0,32,7.77,58333,8,"C++, Core Java",61994387,"Zarna M Bhavsar	",1,Two to Four,Ahmedabad
+20210204,20210129,Developer,0,34,1.33,100000,7.4,SAP,61900250,"Bindiya Ashara	",3,Ten and Above,Kolkata
+20210103,20210217,Chief Risk and Compliance Officer,0,28,12.13,19600,4,Selenium,61993426,"Bindiya Ashara	",3,Four to Six,Mumbai
+20210121,20210117,Chief Risk and Compliance Officer,0,33,12.13,20600,3,BizTalk Server 2013,61829922,"KARISHMA MAHAJAN	",11,Ten and Above,Bangalore
+20210118,20210212,Consultant,0,21,12.13,19600,1.3,SAP,61919551,"SUVAM SARKAR	",0,Four to Six,Pune
+20210216,20210208,Functional Consultant,0,32,12.03,369600,8.5,Oracle FMW Integration 11g,61999489,"VAISHNAVI MAHENDRA DATE	",0,Eight to Ten,New Delhi
+20210210,20210128,Modeller,0,26,16.9,23000,1.9,ASP.NET 2.3,61968156,"ANANDA RAMA MAHARAJAN N K	",22,Six to Eight,Varanasi
+20210112,20210103,System Administrator,1,26,11.07,70840,2.5,Selenium,61999110,"KARAN VIJAYACHANDRAN NAIR	",2,Four to Six,Lucknow
+20210204,20210201,Network Administrator,0,31,4.73,208334,11,"C++, Core Java",61971390,"SUVAM SARKAR	",1,Four to Six,Bhubaneswar
+20210220,20210114,Modeller,1,36,3.97,66667,8,#N/A,61999305,"SUVAM SARKAR	",1,Four to Six,Indore
+20210124,20210112,Executive,0,30,11.43,70834,6,Oracle Hyperion Planning,61831581,"Biswajit Dash	",7,Four to Six,Kochi
+20210201,20210201,Executive,0,33,7.8,95834,5,SAP ERP Materials Management (MM),61999379,"AKSHAY KRISHNA BATTULWAR	",6,Two to Four,Hyderabad
+20210110,20210213,Consultant,0,32,4.67,171000,1,Utilities - SAP FICA,61957458,"KRISHNAKUMAR SUBRAMANI	",8,Four to Six,Chennai
+20210208,20201225,Technical Lead,0,38,5.6,81250,7.8,BizTalk Server 2015,61894726,"Kiran Siddaiah	",9,Four to Six,Ahmedabad
+20210108,20201221,Technical Lead,0,42,3.57,220000,11,SAP Advanced Planning & Optimization (APO),61998743,Sasikumar K,2,Four to Six,Kolkata
+20210126,20210130,Network Administrator,0,26,11.8,37500,4,#N/A,61864387,"DEBRUP CHAKRABORTY	",8,Two to Four,Mumbai
+20210222,20201225,Technical Lead,0,23,12.13,20600,1.3,"ASP.NET 2.0, ASP.NET 4.9",61832106,"DEBRUP CHAKRABORTY	",8,Zero to Two,Bangalore
+20210227,20201213,Consultant,0,28,6.7,32084,3.3,ServiceNow,61867720,"ANANDA RAMA MAHARAJAN N K	",21,Four to Six,Pune
+20210222,20201215,Chief Risk and Compliance Officer,0,35,6.83,54000,10,ASP.NET 2.0,61986087,"KARAN VIJAYACHANDRAN NAIR	",1,Two to Four,New Delhi
+20210205,20201220,Consultant,0,41,3.03,75000,10.1,"Oracle Data Integrator (ODI) 11g, Oracle SOA 11g",61978279,"KARAN VIJAYACHANDRAN NAIR	",4,Two to Four,Varanasi
+20210110,20210109,Functional Consultant,0,27,11.67,41250,2.3,SAP ERP Plant Maintenance (PM),61999463,"ANANDA RAMA MAHARAJAN N K	",0,Zero to Two,Lucknow
+20210205,20210202,Analyst,0,29,9.07,77000,5.7,SAP,61969816,"SUVAM SARKAR	",10,Two to Four,Bhubaneswar
+20210109,20201217,Modeller,0,29,11.8,38000,3.5,BizTalk Server 2016,61996022,"NEHA AGARWAL	",3,Four to Six,Indore
+20210205,20201225,Executive,1,25,12.13,38000,3.2,BizTalk Server 2015,61999192,"ANANTHI S	",9,Four to Six,Kochi
+20210212,20210202,Consultant,0,29,11.17,93750,5.5,SAP,61974948,"ARSHIYA FARHEEN	",4,Four to Six,Nagpur
+20210123,20201221,Support Executive,0,36,11.17,66670,18,"PL/SQL, ASP.NET 4.10",61987428,"VISHAL R R	",1,Two to Four,Delhi
+20210124,20210102,Executive,0,25,6.4,21300,0.1,BizTalk Server 2015,61962524,"SNEHA V	",2,Six to Eight,Hyderabad
+20210208,20201229,Functional Consultant,0,34,5,85000,6,ASP.NET 2.4,61999391,"DEBA PRASAD BISWAL	",1,Four to Six,Chennai
+20210201,20210213,Support Executive,0,27,1.87,277400,4.8,Master Data Management_Informatica (MDM),61976418,"ANANTHI S	",13,Six to Eight,Ahmedabad
+20210210,20210212,Network Administrator,1,24,11.8,75000,8.3,Analytics,61971389,"SUVAM SARKAR	",1,Four to Six,Kolkata
+20210101,20210201,Chief Risk and Compliance Officer,0,28,12.13,56000,4.2,BizTalk Server 2015,61970901,"SUVAM SARKAR	",1,Four to Six,Mumbai
+20210130,20210201,Support Executive,0,34,12.13,54170,8,SQL Server 2012 Database Administration,61962523,"SNEHA V	",2,Six to Eight,Bangalore
+20210227,20201228,Business Analyst,0,28,11.8,75000,5.5,"PL/SQL, ASP.NET 4.9",61971409,"SUVAM SARKAR	",1,Four to Six,Pune
+20210216,20201214,Analyst,1,28,12.13,55000,4.5,"C++, Core Java",61999874,"SUVAM SARKAR	",2,Four to Six,New Delhi
+20210225,20210124,Engineer,0,27,6.93,35000,6,ASP.NET 4.10,61888216,"HARIPRAKASH RAMPRASAD SHARMA	",1,Four to Six,Varanasi
+20210111,20210207,Support Executive,1,28,12.13,34000,4.3,"ASP.NET 2.0, ASP.NET 4.7",61998672,"RAJA RAMALINGAM	",7,Two to Four,Lucknow
+20210209,20201225,Functional Consultant,1,28,3.3,83333,7,Core .NET Technologies,61978879,"RAJA RAMALINGAM	",0,Zero to Two,Bhubaneswar
+20210104,20210107,Engineer,0,37,6.87,216666,14.1,PL/SQL,61998729,"VINUTA BASAVARAJ PATTANASHETTI	",7,Two to Four,Indore
+20210124,20210125,Executive,0,30,12.13,65000,4.5,ASP.NET 2.3,61965626,"SWETHA MURALI	",22,Four to Six,Kochi
+20210201,20210117,Chief Risk and Compliance Officer,0,33,10.7,62750,6.8,SAP GRC Process Control (GRC-PC),61994938,"VINUTA BASAVARAJ PATTANASHETTI	",8,Two to Four,Nagpur
+20210110,20201229,Executive,0,28,12.6,56000,3.7,ASP.NET 2.1,61999681,"ANTO Nimmy STEAPHEN	",9,Four to Six,Delhi
+20210208,20210116,Technical Lead,1,26,10.7,54500,3,ASP.NET 4.6,61826753,"SULEKHA GANGULI	",2,Four to Six,Hyderabad
+20210108,20210201,Functional Consultant,1,27,9.63,52500,3.6,"PL/SQL, ASP.NET 4.9",61858840,"SUVAM SARKAR	",3,Four to Six,Chennai
+20210126,20210130,Engineer,0,23,11.13,54170,20,SAP Advanced Planning & Optimization (APO),61858839,"SUNDAR RAO KOKA	",8,Six to Eight,Ahmedabad
+20210222,20201222,Modeller,0,23,6.57,23000,1.5,BizTalk Server 2017,61938830,"SUNDAR RAO KOKA	",8,Six to Eight,Kolkata
+20210227,20201230,Analyst,0,30,3.03,60834,5,BizTalk Server 2018,61998889,"SHIVANI PATEL	",7,Two to Four,Mumbai
+20210222,20201229,Support Executive,0,27,12.13,21700,3,"PL/SQL, ASP.NET 4.8",61994940,"SHIVANI PATEL	",8,Two to Four,Bangalore
+20210205,20201218,Support Executive,0,37,12.13,70840,10,SAP ERP Production Planning & Control Process Industry (PP PI),61962255,"PANEERU HIMANSHU DORA	",8,Four to Six,Pune
+20210110,20210112,Functional Consultant,0,31,2.8,19500,1,"ASP.NET 2.0, ASP.NET 4.7",61950384,"Muthukarpagam Rajaram	",1,Four to Six,New Delhi
+20210205,20201228,Technical Lead,0,22,18.07,21500,0,ASP.NET 2.2,61950385,"Muthukarpagam Rajaram	",1,Four to Six,Varanasi
+20210109,20210118,Functional Consultant,1,29,7.73,58334,3.6,ASP.NET 2.1,61950426,"Muthukarpagam Rajaram	",1,Six to Eight,Lucknow
+20210205,20210213,Consultant,0,27,12.03,184382,5,"ASP.NET 2.0, ASP.NET 4.9",61950424,"Muthukarpagam Rajaram	",1,Six to Eight,Bhubaneswar
+20210212,20210113,Engineer,0,27,5.53,54000,2.3,"PL/SQL, ASP.NET 4.11",61950425,"Muthukarpagam Rajaram	",1,Six to Eight,Indore
+20210123,20210105,Chief Risk and Compliance Officer,0,26,5.53,62500,3.7,ASP.NET 2.4,61962792,"SNEHA V	",2,Zero to Two,Kochi
+20210124,20210205,System Administrator,0,31,6,62500,7.7,SAP Advanced Planning & Optimization (APO),61998971,"SUDIKSHA CHAKRABORTY	",9,Two to Four,Nagpur
+20210208,20201227,Technical Lead,0,33,12.13,56000,3.6,"PL/SQL, ASP.NET 4.10",61999151,"Kiran Siddaiah	",0,Four to Six,Delhi
+20210201,20201214,Business Analyst,0,25,4.87,33333,2.6,ASP.NET 2.5,61997624,"ANTO Nimmy STEAPHEN	",1,Four to Six,Hyderabad
+20210210,20210104,System Administrator,0,28,6.57,62000,3.9,ASP.NET 2.3,61999177,"PRIYANGA PALANISAMY	",0,Six to Eight,Chennai
+20210101,20210207,Chief Risk and Compliance Officer,0,37,4.67,145833,10,SAP ERP Materials Management (MM),61994387,"Zarna M Bhavsar	",1,Two to Four,Ahmedabad
+20210130,20210213,Chief Risk and Compliance Officer,0,29,5.67,67000,3.4,"ASP.NET 2.0, ASP.NET 4.8",61900250,"Bindiya Ashara	",3,Ten and Above,Kolkata
+20210227,20201224,Executive,0,25,11.57,45834,4.2,SAP,61993426,"Bindiya Ashara	",3,Four to Six,Mumbai
+20210216,20210125,Modeller,0,32,5.67,56667,3.8,"C++, Core Java",61829922,"KARISHMA MAHAJAN	",11,Ten and Above,Bangalore
+20210225,20210201,Consultant,0,25,12.13,48000,3.3,ServiceNow,61919551,"SUVAM SARKAR	",0,Four to Six,Pune
+20210111,20210103,Engineer,0,30,6,56666,5,BizTalk Server 2017,61999489,"VAISHNAVI MAHENDRA DATE	",0,Eight to Ten,New Delhi
+20210209,20201215,Network Administrator,0,27,12.03,47916,5,ASP.NET 4.6,61968156,"ANANDA RAMA MAHARAJAN N K	",22,Six to Eight,Varanasi
+20210104,20201231,Functional Consultant,0,26,11.97,54167,3.3,SAP,61999110,"KARAN VIJAYACHANDRAN NAIR	",2,Four to Six,Lucknow
+20210124,20210201,Developer,1,30,12.03,182600,3.4,SQL Server 2012 Database Administration,61971390,"SUVAM SARKAR	",1,Four to Six,Bhubaneswar
+20210201,20210121,Modeller,0,27,11.1,45834,4.2,Application Integration Architecture,61999305,"SUVAM SARKAR	",1,Four to Six,Indore
+20210110,20210102,Functional Consultant,0,30,5.93,45833,9,"PL/SQL, ASP.NET 4.10",61831581,"Biswajit Dash	",7,Four to Six,Kochi
+20210208,20210104,Engineer,1,23,12.13,79170,10,#N/A,61999379,"AKSHAY KRISHNA BATTULWAR	",6,Two to Four,Hyderabad
+20210108,20210131,Analyst,0,49,4.87,105000,12,Core .NET Technologies,61957458,"KRISHNAKUMAR SUBRAMANI	",8,Four to Six,Chennai
+20210126,20210115,Technical Lead,0,35,4.87,191667,12,Selenium,61894726,"Kiran Siddaiah	",9,Four to Six,Ahmedabad
+20210222,20210129,Support Executive,1,32,2.93,68000,4,Analytics,61998743,Sasikumar K,2,Four to Six,Kolkata
+20210227,20210209,Chief Risk and Compliance Officer,1,28,11.1,50000,3,ASP.NET 4.7,61864387,"DEBRUP CHAKRABORTY	",8,Two to Four,Mumbai
+20210222,20210110,Technical Lead,0,33,6,58334,7,BizTalk Server 2017,61832106,"DEBRUP CHAKRABORTY	",8,Zero to Two,Bangalore
+20210205,20210101,Support Executive,0,25,6,48333,3.2,ASP.NET 4.10,61867720,"ANANDA RAMA MAHARAJAN N K	",21,Four to Six,Pune
+20210110,20210116,Chief Risk and Compliance Officer,0,29,5.87,104167,6,"ASP.NET 2.0, ASP.NET 4.7",61986087,"KARAN VIJAYACHANDRAN NAIR	",1,Two to Four,New Delhi
+20210205,20201215,Technical Lead,0,26,6,56666,3.2,"ASP.NET 2.0, ASP.NET 4.8",61978279,"KARAN VIJAYACHANDRAN NAIR	",4,Two to Four,Varanasi
+20210109,20210201,Network Administrator,0,28,12.13,87500,4.2,SAP ERP Production Planning & Control Process Industry (PP PI),61999463,"ANANDA RAMA MAHARAJAN N K	",0,Zero to Two,Lucknow
+20210205,20210211,Support Executive,0,27,3.9,28000,2,"Oracle Data Integrator (ODI) 11g, Oracle SOA 11g",61969816,"SUVAM SARKAR	",10,Two to Four,Bhubaneswar
+20210212,20210115,Network Administrator,0,29,1.07,47000,4.5,Core .NET Technologies,61996022,"NEHA AGARWAL	",3,Four to Six,Indore
+20210123,20201223,Business Analyst,1,32,1.07,54000,4.5,"Oracle Data Integrator (ODI) 11g, Oracle SOA 11g",61999192,"ANANTHI S	",9,Four to Six,Kochi
+20210124,20210123,Support Executive,0,30,1,174812,6.5,BizTalk Server 2018,61974948,"ARSHIYA FARHEEN	",4,Four to Six,Nagpur
+20210208,20210201,Consultant,0,36,2.93,87500,5.2,PL/SQL,61987428,"VISHAL R R	",1,Two to Four,Delhi
+20210201,20210207,Modeller,0,29,12.13,70840,4.3,ASP.NET 4.8,61962524,"SNEHA V	",2,Six to Eight,Hyderabad
+20210210,20210204,Engineer,0,41,13.07,24000,3.5,ASP.NET 4.6,61999391,"DEBA PRASAD BISWAL	",1,Four to Six,Chennai
+20210101,20201218,Network Administrator,0,27,13.07,25000,4,Utilities - SAP FICA,61976418,"ANANTHI S	",13,Six to Eight,Ahmedabad
+20210130,20210116,Functional Consultant,1,29,1.33,57000,3.8,Oracle Hyperion Planning,61971389,"SUVAM SARKAR	",1,Four to Six,Kolkata
+20210227,20210213,Support Executive,0,27,12.13,45000,3.2,"PL/SQL, ASP.NET 4.11",61970901,"SUVAM SARKAR	",1,Four to Six,Mumbai
+20210216,20210128,Consultant,0,26,15.1,25000,4.2,PL/SQL,61962523,"SNEHA V	",2,Six to Eight,Bangalore
+20210225,20210217,Functional Consultant,0,26,15.1,43334,4.2,BizTalk Server 2017,61971409,"SUVAM SARKAR	",1,Four to Six,Pune
+20210111,20201231,Network Administrator,0,41,7.03,69166,13,"Oracle Data Integrator (ODI) 11g, Oracle SOA 11g",61999874,"SUVAM SARKAR	",2,Four to Six,New Delhi
+20210209,20210129,Support Executive,0,31,6,62500,4.2,SAP,61888216,"HARIPRAKASH RAMPRASAD SHARMA	",1,Four to Six,Varanasi
+20210104,20210113,Analyst,0,30,8.03,58333,3.5,BizTalk Server 2017,61998672,"RAJA RAMALINGAM	",7,Two to Four,Lucknow

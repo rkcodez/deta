@@ -1,0 +1,174 @@
+﻿reqid,rname,duration,posted,minmax,start,role,branch,skill
+7346163,"AKSHAY KRISHNA BATTULWAR	",6,20210203,Two to Four,20210527,Engineer,Hyderabad,Salesforce
+7304242,"KRISHNAKUMAR SUBRAMANI	",8,20210124,Four to Six,20210510,Developer,Chennai,SAP
+7241510,"Kiran Siddaiah	",9,20210201,Four to Six,20210324,Developer,Ahmedabad,SAP Advanced Planning & Optimization (APO)
+7345527,Sasikumar K,2,20210110,Four to Six,20210317,Executive,Kolkata,SAP ERP Materials Management (MM)
+7211171,"DEBRUP CHAKRABORTY	",8,20210208,Two to Four,20210402,Developer,Mumbai,SAP ERP Plant Maintenance (PM)
+7178890,"DEBRUP CHAKRABORTY	",8,20210108,Zero to Two,20210402,Developer,Bangalore,SAP ERP Production Planning & Control Process Industry (PP PI)
+7214504,"ANANDA RAMA MAHARAJAN N K	",21,20210126,Four to Six,20210322,Developer,Pune,SAP GRC Process Control (GRC-PC)
+7332871,"KARAN VIJAYACHANDRAN NAIR	",1,20210222,Two to Four,20210315,Analyst,New Delhi,Selenium
+7325063,"KARAN VIJAYACHANDRAN NAIR	",4,20210227,Two to Four,20210309,Developer,Varanasi,ServiceNow
+7346247,"ANANDA RAMA MAHARAJAN N K	",0,20210222,Zero to Two,20210317,Developer,Lucknow,SQL Server 2012 Database Administration
+7316600,"SUVAM SARKAR	",10,20210205,Two to Four,20210303,Developer,Bhubaneswar,Utilities - SAP FICA
+7342806,"NEHA AGARWAL	",3,20210110,Four to Six,20210319,Functional Consultant,Indore,Master Data Management_Informatica (MDM)
+7345976,"ANANTHI S	",9,20210205,Four to Six,20210324,Engineer,Kochi,"Oracle Data Integrator (ODI) 11g, Oracle SOA 11g"
+7321732,"ARSHIYA FARHEEN	",4,20210109,Four to Six,20210308,Developer,Nagpur,Oracle FMW Integration 11g
+7334212,"VISHAL R R	",1,20210205,Two to Four,20210401,Developer,Delhi,Oracle Hyperion Planning
+7309308,"SNEHA V	",2,20210212,Six to Eight,20210313,Engineer,Hyderabad,PL/SQL
+7346175,"DEBA PRASAD BISWAL	",1,20210123,Four to Six,20210317,Developer,Chennai,"PL/SQL, ASP.NET 4.5"
+7323202,"ANANTHI S	",13,20210124,Six to Eight,20210310,Engineer,Ahmedabad,Analytics
+7318173,"SUVAM SARKAR	",1,20210208,Four to Six,20210401,Developer,Kolkata,Application Integration Architecture
+7317685,"SUVAM SARKAR	",1,20210201,Four to Six,20210401,Developer,Mumbai,ASP.NET 2.0
+7309307,"SNEHA V	",2,20210210,Six to Eight,20210313,Engineer,Bangalore,"ASP.NET 2.0, ASP.NET 4.5"
+7318193,"SUVAM SARKAR	",1,20210101,Four to Six,20210401,Developer,Pune,ASP.NET 4.5
+7346658,"SUVAM SARKAR	",2,20210130,Four to Six,20210317,Developer,New Delhi,BizTalk Server 2013
+7235000,"HARIPRAKASH RAMPRASAD SHARMA	",1,20210227,Four to Six,20210323,Developer,Varanasi,"C++, Core Java"
+7345456,"RAJA RAMALINGAM	",7,20210216,Two to Four,20210319,Engineer,Lucknow,Core .NET Technologies
+7325663,"RAJA RAMALINGAM	",0,20210225,Zero to Two,20210429,Engineer,Bhubaneswar,Core Java
+7345513,"VINUTA BASAVARAJ PATTANASHETTI	",7,20210111,Two to Four,20210319,Engineer,Indore,Salesforce
+7312410,"SWETHA MURALI	",22,20210209,Four to Six,20210301,Support Executive,Kochi,SAP
+7341722,"VINUTA BASAVARAJ PATTANASHETTI	",8,20210104,Two to Four,20210428,Engineer,Nagpur,SAP Advanced Planning & Optimization (APO)
+7346465,"ANTO Nimmy STEAPHEN	",9,20210112,Four to Six,20210323,Developer,Delhi,SAP ERP Materials Management (MM)
+7173537,"SULEKHA GANGULI	",2,20210209,Four to Six,20210501,Developer,Hyderabad,SAP ERP Plant Maintenance (PM)
+7205624,"SUVAM SARKAR	",3,20210213,Four to Six,20210322,Developer,Chennai,SAP ERP Production Planning & Control Process Industry (PP PI)
+7205623,"SUNDAR RAO KOKA	",8,20210201,Six to Eight,20210325,Developer,Ahmedabad,SAP GRC Process Control (GRC-PC)
+7285614,"SUNDAR RAO KOKA	",8,20210206,Six to Eight,20210325,Developer,Kolkata,Selenium
+7345673,"SHIVANI PATEL	",7,20210206,Two to Four,20210319,Engineer,Mumbai,ServiceNow
+7341724,"SHIVANI PATEL	",8,20210124,Two to Four,20210428,Engineer,Bangalore,SQL Server 2012 Database Administration
+7309039,"PANEERU HIMANSHU DORA	",8,20210125,Four to Six,20210510,Developer,Pune,Utilities - SAP FICA
+7297168,"Muthukarpagam Rajaram	",1,20210218,Four to Six,20210318,Developer,New Delhi,Master Data Management_Informatica (MDM)
+7297169,"Muthukarpagam Rajaram	",1,20210107,Four to Six,20210318,Developer,Varanasi,"Oracle Data Integrator (ODI) 11g, Oracle SOA 11g"
+7297210,"Muthukarpagam Rajaram	",1,20210108,Six to Eight,20210318,Developer,Lucknow,Oracle FMW Integration 11g
+7297208,"Muthukarpagam Rajaram	",1,20210204,Six to Eight,20210318,Developer,Bhubaneswar,Oracle Hyperion Planning
+7297209,"Muthukarpagam Rajaram	",1,20210227,Six to Eight,20210318,Developer,Indore,PL/SQL
+7309576,"SNEHA V	",2,20210206,Zero to Two,20210308,Developer,Kochi,"PL/SQL, ASP.NET 4.6"
+7345755,"SUDIKSHA CHAKRABORTY	",9,20210208,Two to Four,20210317,Developer,Nagpur,Analytics
+7345935,"Kiran Siddaiah	",0,20210212,Four to Six,20210801,Developer,Delhi,Application Integration Architecture
+7344408,"ANTO Nimmy STEAPHEN	",1,20210120,Four to Six,20210320,Analyst,Hyderabad,ASP.NET 2.1
+7345961,"PRIYANGA PALANISAMY	",0,20210116,Six to Eight,20210317,Developer,Chennai,"ASP.NET 2.0, ASP.NET 4.6"
+7341171,"Zarna M Bhavsar	",1,20210110,Two to Four,20210319,Developer,Ahmedabad,ASP.NET 4.6
+7247034,"Bindiya Ashara	",3,20210127,Ten and Above,20210401,Analyst,Kolkata,BizTalk Server 2014
+7340210,"Bindiya Ashara	",3,20210220,Four to Six,20210401,Analyst,Mumbai,"C++, Core Java"
+7176706,"KARISHMA MAHAJAN	",11,20210226,Ten and Above,20210215,Modeller,Bangalore,Core .NET Technologies
+7266335,"SUVAM SARKAR	",0,20210123,Four to Six,20210318,Developer,Pune,Core Java
+7346273,"VAISHNAVI MAHENDRA DATE	",0,20210130,Eight to Ten,20210525,Developer,New Delhi,Salesforce
+7314940,"ANANDA RAMA MAHARAJAN N K	",22,20210217,Six to Eight,20210303,Developer,Varanasi,SAP
+7345894,"KARAN VIJAYACHANDRAN NAIR	",2,20210209,Four to Six,20210317,Developer,Lucknow,SAP Advanced Planning & Optimization (APO)
+7318174,"SUVAM SARKAR	",1,20210226,Four to Six,20210401,Developer,Bhubaneswar,SAP ERP Materials Management (MM)
+7346089,"SUVAM SARKAR	",1,20210216,Four to Six,20210401,Developer,Indore,SAP ERP Plant Maintenance (PM)
+7178365,"Biswajit Dash	",7,20210210,Four to Six,20210224,Developer,Kochi,SAP ERP Production Planning & Control Process Industry (PP PI)
+7206562,"SUVAM SARKAR	",1,20210102,Four to Six,20201230,Developer,Nagpur,SAP GRC Process Control (GRC-PC)
+7206548,"SUVAM SARKAR	",1,20210214,Four to Six,20201230,Developer,Delhi,Selenium
+7236019,"Biswajit Dash	",6,20210205,Four to Six,20210225,Developer,Hyderabad,ServiceNow
+7344429,"IPSITA MUKHERJEE	",2,20210209,Four to Six,20210316,Developer,Chennai,SQL Server 2012 Database Administration
+7316094,"NEHA AGARWAL	",1,20210120,Four to Six,20210303,Consultant,Ahmedabad,Utilities - SAP FICA
+7295844,"ARSHIYA FARHEEN	",4,20210127,Four to Six,20210301,Developer,Kolkata,Master Data Management_Informatica (MDM)
+7339591,"ARSHIYA FARHEEN	",12,20210128,Two to Four,20210318,Analyst,Mumbai,"Oracle Data Integrator (ODI) 11g, Oracle SOA 11g"
+7345878,"KARTHIGEYAN S	",20,20210111,Four to Six,20210419,System Administrator,Bangalore,Oracle FMW Integration 11g
+7173135,"ARUSHI AGRAWAL	",3,20210121,Four to Six,20210419,Developer,Pune,Oracle Hyperion Planning
+7323651,"PANEERU HIMANSHU DORA	",13,20210116,Four to Six,20210305,Developer,New Delhi,PL/SQL
+7343295,"SUVAM SARKAR	",10,20210103,Six to Eight,20210324,Developer,Varanasi,"PL/SQL, ASP.NET 4.7"
+7345619,"AKSHAY KRISHNA BATTULWAR	",0,20210228,Two to Four,20210317,Developer,Lucknow,Analytics
+7289456,"ARUSHI AGRAWAL	",3,20210210,Six to Eight,20210503,Developer,Bhubaneswar,Application Integration Architecture
+7253863,"MANDALA DEDEEPYA	",3,20210226,Four to Six,20210326,Developer,Indore,ASP.NET 2.2
+7323182,"ANANTHI S	",13,20210112,Six to Eight,20210309,Engineer,Kochi,"ASP.NET 2.0, ASP.NET 4.7"
+7339889,"Sameera Pakki	",8,20210114,Eight to Ten,20210515,Technical Lead,Nagpur,ASP.NET 4.7
+7332243,"Sameera Pakki	",8,20210127,Eight to Ten,20210515,Technical Lead,Delhi,BizTalk Server 2015
+7332580,"Sameera Pakki	",8,20210203,Eight to Ten,20210515,Technical Lead,Hyderabad,"C++, Core Java"
+7345879,"CHARU AGRAWAL	",4,20210208,Two to Four,20210317,Consultant,Chennai,Core .NET Technologies
+7343761,"Sameera Pakki	",9,20210131,Eight to Ten,20210331,System Administrator,Ahmedabad,Core Java
+7343709,"Sameera Pakki	",9,20210108,Eight to Ten,20210316,System Administrator,Kolkata,Salesforce
+7343681,"Sameera Pakki	",9,20210204,Eight to Ten,20210316,System Administrator,Mumbai,SAP
+7345864,"Partha Pratim Giri	",1,20210103,Four to Six,20210328,Developer,Bangalore,SAP Advanced Planning & Optimization (APO)
+7311895,"PANEERU HIMANSHU DORA	",9,20210107,Four to Six,20210401,Developer,Pune,SAP ERP Materials Management (MM)
+7330614,"MANDALA DEDEEPYA	",2,20210220,Four to Six,20210318,Developer,New Delhi,SAP ERP Plant Maintenance (PM)
+7326959,"DEBA PRASAD BISWAL	",29,20210214,Two to Four,20210325,Developer,Varanasi,SAP ERP Production Planning & Control Process Industry (PP PI)
+7329583,"MANDALA DEDEEPYA	",3,20210215,Four to Six,20210315,Developer,Lucknow,SAP GRC Process Control (GRC-PC)
+7329585,"MANDALA DEDEEPYA	",3,20210110,Four to Six,20210315,Developer,Bhubaneswar,Selenium
+7311896,"KRISHNAKUMAR SUBRAMANI	",9,20210116,Four to Six,20210401,Developer,Indore,ServiceNow
+7329741,"SNEHA k N	",2,20210214,Four to Six,20210322,Developer,Kochi,SQL Server 2012 Database Administration
+7299844,"SULEKHA GANGULI	",5,20210218,Two to Four,20210327,Developer,Nagpur,Utilities - SAP FICA
+7345669,"SUGANYA SHANMUGAM	",2,20210123,Four to Six,20210322,Network Administrator,Delhi,Master Data Management_Informatica (MDM)
+7343667,"USHALAKSHMI SRIDHARAN	",2,20210128,Four to Six,20210329,System Administrator,Hyderabad,"Oracle Data Integrator (ODI) 11g, Oracle SOA 11g"
+7337875,"SNEHA k N	",12,20210218,Six to Eight,20210320,Developer,Chennai,Oracle FMW Integration 11g
+7343668,"USHALAKSHMI SRIDHARAN	",2,20210121,Four to Six,20210329,System Administrator,Ahmedabad,Oracle Hyperion Planning
+7343711,"USHALAKSHMI SRIDHARAN	",2,20210201,Four to Six,20210329,System Administrator,Kolkata,PL/SQL
+7290376,"MANASA V	",9,20210207,Ten and Above,20210310,Chief Risk and Compliance Officer,Mumbai,"PL/SQL, ASP.NET 4.8"
+7213168,"MANASA V	",12,20210101,Eight to Ten,20210112,Engineer,Bangalore,Analytics
+7212844,"MANASA V	",11,20210107,Eight to Ten,20210201,Developer,Pune,Application Integration Architecture
+7207464,"PRIYAMVADA RV	",3,20210223,Four to Six,20210115,Support Executive,New Delhi,ASP.NET 2.3
+7213169,"MANASA V	",12,20210218,Eight to Ten,20210112,Engineer,Varanasi,"ASP.NET 2.0, ASP.NET 4.8"
+7298537,"MANASA V	",13,20210208,Four to Six,20210222,Business Analyst,Lucknow,ASP.NET 4.8
+7290312,"MANASA V	",9,20210217,Four to Six,20210310,Technical Lead,Bhubaneswar,BizTalk Server 2016
+7212843,"MANASA V	",11,20210208,Eight to Ten,20210201,Developer,Indore,"C++, Core Java"
+7298536,"MANASA V	",13,20210119,Four to Six,20210222,Business Analyst,Kochi,Core .NET Technologies
+7251540,"MANASA V	",2,20210109,Six to Eight,20210201,Developer,Nagpur,Core Java
+7270884,"MANASA V	",9,20210116,Eight to Ten,20210329,Developer,Delhi,Salesforce
+7344811,"SUNDAR RAO KOKA	",9,20210116,Eight to Ten,20210319,Developer,Hyderabad,SAP
+7220001,"SUNDAR RAO KOKA	",18,20210226,Six to Eight,20210112,Engineer,Chennai,SAP Advanced Planning & Optimization (APO)
+7328816,"Shruthi Mellacharuvu	",10,20210124,Four to Six,20210310,Developer,Ahmedabad,SAP ERP Materials Management (MM)
+7316386,"S RAKESH	",9,20210220,Eight to Ten,20210401,Developer,Kolkata,SAP ERP Plant Maintenance (PM)
+7293650,"ANJIKA .	",6,20210224,Six to Eight,20210330,Executive,Mumbai,SAP ERP Production Planning & Control Process Industry (PP PI)
+7340262,"ANJIKA .	",9,20210201,Eight to Ten,20210315,Developer,Bangalore,SAP GRC Process Control (GRC-PC)
+7329545,"NITIN CHADHA	",1,20210126,Four to Six,20210309,Developer,Pune,Selenium
+7340264,"ANJIKA .	",9,20210225,Eight to Ten,20210315,Developer,New Delhi,ServiceNow
+7241532,"Biswajit Dash	",10,20210127,Four to Six,20210305,Analyst,Varanasi,SQL Server 2012 Database Administration
+7326336,"NITIN CHADHA	",1,20210201,Six to Eight,20210306,Developer,Lucknow,Utilities - SAP FICA
+7345387,"AKSHAY KRISHNA BATTULWAR	",6,20210220,Two to Four,20210527,Developer,Bhubaneswar,Master Data Management_Informatica (MDM)
+7343664,"SACHIN KUMAR DIVVEDA	",9,20210117,Four to Six,20210317,Developer,Indore,"Oracle Data Integrator (ODI) 11g, Oracle SOA 11g"
+7276680,"DEBA PRASAD BISWAL	",0,20210129,Six to Eight,20210215,Functional Consultant,Kochi,Oracle FMW Integration 11g
+7345480,"Shruthi Mellacharuvu	",1,20210107,Four to Six,20210323,Engineer,Nagpur,Oracle Hyperion Planning
+7189950,"PURNANAGA NAVEENBABU VANAPALLI	",1,20210201,Two to Four,20210315,Developer,Delhi,PL/SQL
+7323157,"Shruthi Mellacharuvu	",6,20210129,Four to Six,20210317,Developer,Hyderabad,"PL/SQL, ASP.NET 4.9"
+7226740,"Rizwana Parween	",10,20210102,Two to Four,20210313,Engineer,Chennai,Analytics
+7292414,"SUNIDHI KANOONGO	",11,20210118,Two to Four,20210219,Developer,Ahmedabad,Application Integration Architecture
+7161175,"HARIHARAN SRINIVASAN	",3,20210113,Two to Four,20210111,Engineer,Kolkata,ASP.NET 2.4
+7339176,"PURNANAGA NAVEENBABU VANAPALLI	",12,20210207,Six to Eight,20210319,Developer,Mumbai,"ASP.NET 2.0, ASP.NET 4.9"
+7301414,"SULEKHA GANGULI	",10,20210227,Four to Six,20210301,Developer,Bangalore,ASP.NET 4.9
+7345335,"MONALISA DE	",9,20210125,Four to Six,20210317,Engineer,Pune,BizTalk Server 2017
+7202775,"PRAVEEN SANKAR M	",5,20210216,Two to Four,20210211,Developer,New Delhi,"C++, Core Java"
+7344714,"ILAKKIYAVENDHAN KARUNAMOORTHY	",0,20210219,Two to Four,20210317,Developer,Varanasi,Core .NET Technologies
+7344632,"KAJAL SARUPRIA	",9,20210205,Four to Six,20210316,Developer,Lucknow,Core Java
+7336766,"ANANDA RAMA MAHARAJAN N K	",9,20210102,Eight to Ten,20210401,Engineer,Bhubaneswar,Salesforce
+7336765,"ANANDA RAMA MAHARAJAN N K	",9,20210107,Eight to Ten,20210401,Engineer,Indore,SAP
+7344690,"ANJANA K	",9,20210209,Four to Six,20210316,Engineer,Kochi,SAP Advanced Planning & Optimization (APO)
+7333594,"ANANDA RAMA MAHARAJAN N K	",9,20210206,Six to Eight,20210405,Support Executive,Nagpur,SAP ERP Materials Management (MM)
+7344241,"AKSHAY KRISHNA BATTULWAR	",9,20210112,Four to Six,20210316,Engineer,Delhi,SAP ERP Plant Maintenance (PM)
+7264421,"PRIYAMVADA RV	",3,20210130,Four to Six,20210308,Developer,Hyderabad,SAP ERP Production Planning & Control Process Industry (PP PI)
+7341281,"ANJANA K	",25,20210125,Four to Six,20210315,Developer,Chennai,SAP GRC Process Control (GRC-PC)
+7345156,"LAKSHMI M	",0,20210222,Four to Six,20210430,Developer,Ahmedabad,Selenium
+7336755,"AKSHAY KRISHNA BATTULWAR	",7,20210127,Four to Six,20210524,Developer,Kolkata,ServiceNow
+7336754,"AKSHAY KRISHNA BATTULWAR	",7,20210228,Four to Six,20210524,Developer,Mumbai,SQL Server 2012 Database Administration
+7342901,"Ronnie David Cherian	",1,20210123,Six to Eight,20210316,Engineer,Bangalore,Utilities - SAP FICA
+7302207,"VIJAY KUMAR RAI	",9,20210119,Six to Eight,20210401,Engineer,Pune,Master Data Management_Informatica (MDM)
+7302208,"VIJAY KUMAR RAI	",9,20210130,Six to Eight,20210401,Developer,New Delhi,"Oracle Data Integrator (ODI) 11g, Oracle SOA 11g"
+7302204,"VIJAY KUMAR RAI	",9,20210110,Six to Eight,20210401,Developer,Varanasi,Oracle FMW Integration 11g
+7302191,"VIJAY KUMAR RAI	",9,20210213,Two to Four,20210320,Developer,Lucknow,Oracle Hyperion Planning
+7302514,"VIJAY KUMAR RAI	",9,20210213,Two to Four,20210320,Developer,Bhubaneswar,PL/SQL
+7302147,"MUKESH PALANI	",2,20210112,Six to Eight,20210301,Developer,Indore,"PL/SQL, ASP.NET 4.10"
+7344843,"MOUNIKA KAKI	",1,20210124,Six to Eight,20210422,Developer,Kochi,Analytics
+7344850,"MOUNIKA KAKI	",1,20210127,Six to Eight,20210424,Developer,Nagpur,Application Integration Architecture
+7344832,"MOUNIKA KAKI	",1,20210128,Six to Eight,20210425,Developer,Delhi,ASP.NET 2.5
+7345165,"SULEKHA GANGULI	",1,20210209,Four to Six,20210319,Developer,Hyderabad,"ASP.NET 2.0, ASP.NET 4.10"
+7324833,"KAJAL SARUPRIA	",9,20210124,Six to Eight,20210405,Analyst,Chennai,ASP.NET 4.10
+7343125,"AKSHAY KRISHNA BATTULWAR	",0,20210201,Two to Four,20210316,Developer,Ahmedabad,BizTalk Server 2018
+7334812,"RAVIKANTH GAJULA	",4,20210102,Four to Six,20210311,Developer,Kolkata,"C++, Core Java"
+7332733,"AKSHAY KRISHNA BATTULWAR	",9,20210110,Two to Four,20210401,Analyst,Mumbai,Core .NET Technologies
+7326876,"A Sivakumar	",10,20210127,Two to Four,20210308,Analyst,Bangalore,Core Java
+7326223,"A Sivakumar	",10,20210205,Two to Four,20210312,Modeller,Pune,Salesforce
+7201635,"A Sivakumar	",8,20210212,Two to Four,20210419,Developer,New Delhi,SAP
+7167776,"A Sivakumar	",7,20210118,Two to Four,20210419,Developer,Varanasi,SAP Advanced Planning & Optimization (APO)
+7319629,"A Sivakumar	",1,20210115,Two to Four,20210308,Developer,Lucknow,SAP ERP Materials Management (MM)
+7336004,"A Sivakumar	",1,20210206,Zero to Two,20210311,Developer,Bhubaneswar,SAP ERP Plant Maintenance (PM)
+7318048,"A Sivakumar	",1,20210106,Two to Four,20210303,Developer,Indore,SAP ERP Production Planning & Control Process Industry (PP PI)
+7281553,"SULEKHA GANGULI	",6,20210209,Four to Six,20210419,Developer,Kochi,SAP GRC Process Control (GRC-PC)
+7252066,"VENKATA SAI MANOJ BABU DABBIRU	",3,20210109,Two to Four,20210317,Developer,Nagpur,Selenium
+7301737,"ANTO Nimmy STEAPHEN	",1,20210204,Six to Eight,20210316,Developer,Delhi,ServiceNow
+7331069,"NUTHAN PRASAD	",10,20210103,Two to Four,20210310,Developer,Hyderabad,SQL Server 2012 Database Administration
+7310037,"SIVAKUMARAN RP	",8,20210121,Six to Eight,20210316,Developer,Chennai,Utilities - SAP FICA
+7343618,"GEETA LINGWAL	",11,20210118,Four to Six,20210316,Developer,Ahmedabad,Master Data Management_Informatica (MDM)
+7343619,"GEETA LINGWAL	",11,20210216,Four to Six,20210316,Consultant,Kolkata,"Oracle Data Integrator (ODI) 11g, Oracle SOA 11g"
+7343611,"GEETA LINGWAL	",11,20210210,Four to Six,20210316,Developer,Mumbai,Oracle FMW Integration 11g
+7343610,"GEETA LINGWAL	",11,20210112,Four to Six,20210316,Analyst,Bangalore,Oracle Hyperion Planning
+7343590,"GEETA LINGWAL	",11,20210204,Four to Six,20210316,System Administrator,Pune,PL/SQL
+7343589,"GEETA LINGWAL	",11,20210220,Four to Six,20210316,Developer,New Delhi,"PL/SQL, ASP.NET 4.11"

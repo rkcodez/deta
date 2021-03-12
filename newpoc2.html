@@ -1,0 +1,732 @@
+<html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  <title>POC sample</title>
+
+  <!-- <script src="./dc.js Experiment_files/d3.v3.js.download" type="text/javascript"></script> -->
+  <!-- <script src="./dc.js Experiment_files/crossfilter.js.download" type="text/javascript"></script> -->
+  <!-- <script src="./dc.js Experiment_files/dc.js.download" type="text/javascript"></script> -->
+  <!-- <script src="./dc.js Experiment_files/jquery-1.9.1.min.js.download" type="text/javascript"></script> -->
+  <!-- <script src="./dc.js Experiment_files/bootstrap.min.js.download" type="text/javascript"></script> -->
+  <!-- <script src="./dc.js Experiment_files/FileSaver.js.download"></script> -->
+  <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script> -->
+  <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script> -->
+  <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"> -->
+  <!-- <link href="./dc.js Experiment_files/dc.css" rel="stylesheet" type="text/css"> -->
+
+
+   <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/6.5.0/d3.js" type="text/javascript"></script> -->
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/6.6.0/d3.js" type="text/javascript"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/crossfilter/1.3.12/crossfilter.js" type="text/javascript"></script>
+  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/dc/4.2.4/dc.js" type="text/javascript"></script> -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/dc/4.2.5/dc.js" type="text/javascript"></script>
+  <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js" type="text/javascript"></script> -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.js" type="text/javascript"></script>
+  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/6.6.0/d3.js" integrity="sha512-xRVUSMbP6XDZjdfwAYasB3lbIHCIfbHRUjJgSLKDXNi7WD/aJdLBd0Hcd3xbzA3Ys0pSj1uzHk6VZ+AC8ojNPA==" crossorigin="anonymous"></script> -->
+  <!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" type="text/javascript"></script> -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.js"></script>
+  <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"> -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/dc/4.2.5/style/dc.css"/>
+   
+  <style>
+    h4 span {
+      font-size:14px;
+      font-weight:normal;
+      }
+    h2 {
+      float: right;
+    }
+    h2 span {
+      font-size:14px;
+      font-weight:normal;
+      }
+	  .dc-chart g.row text {
+  fill: black;  
+}
+
+#piechart svg { width: 350px; }
+
+  </style>
+</head>
+
+<body>
+<div class="container-fluid" style="font: 12px sans-serif; margin-left:20px;">
+	<div class="row">
+		  <div class="dc-data-count dc-chart" style="float: left; margin-left:20px;">
+			<h2>Job Requirement Analysis POC
+			  <span>
+				<span class="filter-count">430</span>
+				 selected out of 
+				<span class="total-count">430</span>
+				 records | 
+				<a href="javascript:dc.filterAll(); dc.renderAll();">Reset All</a>
+			  </span>
+			</h2>
+		  </div>
+	</div>	
+</div>
+  
+
+<div class="container-fluid" style="margin-left:20px; margin-top:20px;">
+    <div class="row">
+			  <div class="col-lg-2 col-md-2" style="float: left;">
+				<p>RGS ID : 
+				  <span>
+					<span id="dc-skill-menu2"></span>
+					<a href="javascript:dc.filterAll(); dc.renderAll();" style="font: 10px sans-serif;">Reset All</a>
+				  </span>
+				</p>
+			  </div>
+			  <div class="col-lg-4 col-md-4" style="float: left;">
+				<p>Recruiter Name : 
+				  <span>
+					<span id="dc-skill-menu3"></span>
+					<a href="javascript:dc.filterAll(); dc.renderAll();" style="font: 10px sans-serif;">Reset All</a>
+				  </span>
+				</p>
+			  </div>
+			  <div class="col-lg-2 col-md-2" style="float: left;">
+				<p>Branch : 
+				  <span>
+					<span id="dc-skill-menu4"></span>
+					<a href="javascript:dc.filterAll(); dc.renderAll();" style="font: 10px sans-serif;">Reset All</a>
+				  </span>
+				</p>
+			  </div>
+			  <div class="col-lg-2 col-md-2" style="float: left;">
+				<p>Posted Date : 
+				  <span>
+					<span id="dc-skill-menu5"></span>
+					<a href="javascript:dc.filterAll(); dc.renderAll();" style="font: 10px sans-serif;">Reset All</a>
+				  </span>
+				</p>
+			  </div>
+			  
+	
+	</div>
+</div>
+
+  
+  
+  
+<div class="container-fluid" style="font: 12px sans-serif; margin:20px;">
+	<div class="row">
+		<div class="col-lg-4 col-md-4" id="dc-role-chart">
+			<div class="row">
+				<div class="col-lg-12 col-md-12"> 
+								<h4>
+										Role Names
+								<span>
+									<a class="reset" href="javascript:rolerowchart.filterAll();dc.redrawAll();" style="display: none;">
+									reset
+									</a>
+								</span>
+								</h4>
+					
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-8 col-md-8">
+			<div class="row">
+				<div class="col-lg-6 col-md-6" id="dc-magnitude-chart">
+				<!-- <div class="span6 dc-chart" id="dc-magnitude-chart"> -->
+				<h4>
+					Duration of Project
+					<span>
+					<a class="reset" href="javascript:magnitudeChart.filterAll();dc.redrawAll();" style="display: none;">
+						reset
+					</a>
+					</span>
+				</h4>
+				</div>
+    			<div class="col-lg-6 col-md-6" id="dc-depth-chart">
+				<!-- <div class="span6 dc-chart" id="dc-depth-chart"> -->
+					<h4>
+						Experience ranges
+					<span>
+					<a class="reset" href="javascript:depthChart.filterAll();dc.redrawAll();" style="display: none;">
+						reset
+					</a>
+					</span>
+					</h4>
+				</div>
+				<div class="col-lg-12 col-md-12" id="dc-time-chartt">
+				<!-- <div class="span12 dc-chart" id="dc-time-chart"> -->
+					<h4>
+							Job Posted Date
+					<span>
+					<a class="reset" href="javascript:timeChartt.filterAll();dc.redrawAll();" style="display: none;">
+							reset
+					</a>
+					</span>
+					</h4>
+			
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="container-fluid" style="font: 12px sans-serif; margin:20px;">
+	<div class="row">
+		<div class="col-lg-3 col-md-3" id="dc-skill-menu">
+			<div class="row">
+				<div class="col-lg-12 col-md-12">
+								<h4>
+										Skillsets Needed
+								<span>
+									<a class="reset" href="javascript:skillselectmenu.filterAll();dc.redrawAll();" style="display: none;">
+									reset
+									</a>
+								</span>
+								</h4>
+				<!-- <svg width="400" height="470" style="border-color:black; border-style: solid;"></svg> -->
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-1 col-md-1" id="dc-skill-menu6">
+			<div class="row">
+				<div class="col-lg-12 col-md-12">
+								<h4>
+										Branches
+								<span>
+									<a class="reset" href="javascript:skillselectmenu6.filterAll();dc.redrawAll();" style="display: none;">
+									reset
+									</a>
+								</span>
+								</h4>
+				<!-- <svg width="400" height="470" style="border-color:black; border-style: solid;"></svg> -->
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-8 col-md-8">
+			<div class="row">
+					<div class="col-lg-12 col-md-12 dc-chart" id="dc-time-chart">
+						<!-- <div class="span12 dc-chart"> -->
+								<h4>
+										Job Starting Date
+								<span>
+									<a class="reset" href="javascript:timeChart.filterAll();dc.redrawAll();" style="display: none;">
+									reset
+									</a>
+								</span>
+								</h4>
+								<svg width="960" height="150"><g><g class="chart-body" transform="translate(40, 10)" clip-path="url(#dc-time-chart-clip)"><g class="stack _0"><path class="line" stroke="#1f77b4" fill="#1f77b4" d="M-0.13732103524229075,100L4.199132709251101,116L8.535586453744493,96L17.208493942731277,96L21.544947687224667,112L25.88140143171806,116L30.21785517621145,100L34.55430892070484,100L38.89076266519824,92L43.22721640969163,108L47.56367015418502,112L51.900123898678416,100L56.2365776431718,96L60.5730313876652,92L64.9094851321586,96L69.24593887665198,104L73.58239262114536,84L77.91884636563876,112L82.25530011013215,84L86.59175385462554,104L90.92820759911893,112L95.26466134361233,96L99.60111508810573,112L103.93756883259911,112L108.27402257709251,104L112.6104763215859,84L121.28338381057267,100L125.61983755506608,116L129.95629129955947,112L134.29274504405285,96L138.62919878854623,112L142.96565253303964,108L147.30210627753303,92L151.63856002202644,108L155.97501376651982,112L160.3114675110132,84L164.6479212555066,104L168.98437499999997,100L173.32082874449338,104L177.65728248898677,108L181.99373623348018,108L186.33018997797356,100L190.66664372246694,108L195.00309746696033,112L199.33955121145374,96L203.67600495594712,112L208.01245870044053,104L212.34891244493392,108L216.68536618942733,116L221.02181993392068,100L225.35827367841406,104L229.69472742290745,108L234.03118116740086,112L238.36763491189427,100L242.70408865638768,100L247.04054240088104,88L251.37699614537442,112L255.71344988986783,108L260.0499036343612,108L264.3863573788546,104L268.722811123348,104L273.0592648678414,96L277.3957186123348,116L286.06862610132157,104L294.74153359030834,100L299.0779873348017,116L307.75089482378854,108L312.0873485682819,116L316.4238023127753,116L320.7602560572687,112L325.09670980176213,116L329.43316354625546,100L338.1060710352423,112L346.77897852422905,104L351.11543226872243,96L355.45188601321587,108L359.7883397577092,108L364.12479350220264,108L368.461247246696,92L372.7977009911894,112L377.1341547356828,104L381.47060848017617,112L385.8070622246696,108L390.143515969163,112L394.4799697136564,108L398.81642345814976,112L403.15287720264314,112L407.4893309471365,116L411.8257846916299,112L420.49869218061673,112L424.8351459251101,96L429.1715996696035,116L437.8445071585903,112L442.18096090308364,108L446.5174146475771,116L450.85386839207047,116L455.19032213656385,112L459.52677588105723,116L463.86322962555056,108L468.19968337004406,116L472.5361371145374,112L476.8725908590309,116L481.2090446035242,104L485.5454983480176,116L498.55485958149774,116L502.8913133259912,100L507.22776707048456,112L515.9006745594713,112L524.5735820484582,112L528.9100357929515,112L533.2464895374449,116L537.5829432819384,112L541.9193970264316,112L546.255850770925,104L550.5923045154185,96L554.9287582599119,108L559.2652120044053,116L563.6016657488987,116L567.938119493392,116L572.2745732378854,116L576.6110269823788,108L580.9474807268722,108L585.2839344713657,108L593.9568419603523,112L598.2932957048458,116L602.6297494493391,112L606.9662031938326,112L611.302656938326,104L615.6391106828194,112L619.9755644273127,112L624.3120181718061,104L628.6484719162995,112L637.3213794052863,104L641.6578331497798,116L645.9942868942732,92L650.3307406387664,92L654.6671943832599,108L659.0036481277533,100L663.3401018722466,108L667.6765556167401,108L672.0130093612335,108L676.3494631057268,104L680.6859168502202,112L685.0223705947136,108L689.3588243392071,104L693.6952780837004,112L698.0317318281938,116L706.7046393171806,112L711.0410930616739,112L719.7140005506608,108L724.050454295154,96L728.3869080396476,84L732.7233617841409,28L737.0598155286343,0L741.3962692731277,4L745.7327230176211,16L750.0691767621146,4L754.4056305066078,32L758.7420842511012,4L763.0785379955947,16L767.414991740088,4L771.7514454845814,20L776.0878992290749,16L780.4243529735683,8L784.7608067180616,28L789.097260462555,32L793.4337142070484,20L797.7701679515418,48L802.1066216960352,48L806.4430754405286,44L810.779529185022,24L815.1159829295153,40L819.4524366740088,80L823.7888904185022,72L828.1253441629955,40L832.461797907489,52L836.7982516519824,32L841.1347053964757,32L845.4711591409691,40L849.8076128854625,40L854.1440666299559,68L858.4805203744493,60L862.8169741189427,36L867.1534278634361,36L871.4898816079295,56L875.8263353524228,72L880.1627890969163,44L884.4992428414097,56L888.835696585903,56L893.1721503303964,88L897.5086040748898,60L901.8450578193832,80L906.1815115638766,72"></path></g></g><g class="axis x" transform="translate(40,130)"><g class="tick major" transform="translate(95.26466134361233,0)" style="opacity: 1;"><line y2="6" x2="0"></line><text y="9" dy=".71em" x="0" style="text-anchor: middle;">Sat 10</text></g><g class="tick major" transform="translate(199.33955121145374,0)" style="opacity: 1;"><line y2="6" x2="0"></line><text y="9" dy=".71em" x="0" style="text-anchor: middle;">Aug 11</text></g><g class="tick major" transform="translate(303.41444107929516,0)" style="opacity: 1;"><line y2="6" x2="0"></line><text y="9" dy=".71em" x="0" style="text-anchor: middle;">Mon 12</text></g><g class="tick major" transform="translate(407.4893309471365,0)" style="opacity: 1;"><line y2="6" x2="0"></line><text y="9" dy=".71em" x="0" style="text-anchor: middle;">Tue 13</text></g><g class="tick major" transform="translate(511.564220814978,0)" style="opacity: 1;"><line y2="6" x2="0"></line><text y="9" dy=".71em" x="0" style="text-anchor: middle;">Wed 14</text></g><g class="tick major" transform="translate(615.6391106828194,0)" style="opacity: 1;"><line y2="6" x2="0"></line><text y="9" dy=".71em" x="0" style="text-anchor: middle;">Thu 15</text></g><g class="tick major" transform="translate(719.7140005506608,0)" style="opacity: 1;"><line y2="6" x2="0"></line><text y="9" dy=".71em" x="0" style="text-anchor: middle;">Fri 16</text></g><g class="tick major" transform="translate(823.7888904185022,0)" style="opacity: 1;"><line y2="6" x2="0"></line><text y="9" dy=".71em" x="0" style="text-anchor: middle;">Sat 17</text></g><path class="domain" d="M0,6V0H910V6"></path></g><g class="axis y" transform="translate(40,10)"><g class="tick major" transform="translate(0,120)" style="opacity: 1;"><line x2="-6" y2="0"></line><text x="-9" dy=".32em" y="0" style="text-anchor: end;">0</text></g><g class="tick major" transform="translate(0,100)" style="opacity: 1;"><line x2="-6" y2="0"></line><text x="-9" dy=".32em" y="0" style="text-anchor: end;">5</text></g><g class="tick major" transform="translate(0,80)" style="opacity: 1;"><line x2="-6" y2="0"></line><text x="-9" dy=".32em" y="0" style="text-anchor: end;">10</text></g><g class="tick major" transform="translate(0,60)" style="opacity: 1;"><line x2="-6" y2="0"></line><text x="-9" dy=".32em" y="0" style="text-anchor: end;">15</text></g><g class="tick major" transform="translate(0,40)" style="opacity: 1;"><line x2="-6" y2="0"></line><text x="-9" dy=".32em" y="0" style="text-anchor: end;">20</text></g><g class="tick major" transform="translate(0,20)" style="opacity: 1;"><line x2="-6" y2="0"></line><text x="-9" dy=".32em" y="0" style="text-anchor: end;">25</text></g><g class="tick major" transform="translate(0,0)" style="opacity: 1;"><line x2="-6" y2="0"></line><text x="-9" dy=".32em" y="0" style="text-anchor: end;">30</text></g><path class="domain" d="M-6,0H0V120H-6"></path></g><g class="brush" transform="translate(40,10)" style="pointer-events: all;"><rect class="background" x="0" width="910" height="120" style="visibility: hidden; cursor: crosshair;"></rect><rect class="extent" x="0" width="0" height="120" style="cursor: move;"></rect><g class="resize e" transform="translate(0,0)" style="cursor: ew-resize; display: none;"><rect x="-3" width="6" height="120" style="visibility: hidden;"></rect><path d="M0.5,40A6,6 0 0 1 6.5,46V74A6,6 0 0 1 0.5,80ZM2.5,48V72M4.5,48V72"></path></g><g class="resize w" transform="translate(0,0)" style="cursor: ew-resize; display: none;"><rect x="-3" width="6" height="120" style="visibility: hidden;"></rect><path d="M-0.5,40A6,6 0 0 0 -6.5,46V74A6,6 0 0 0 -0.5,80ZM-2.5,48V72M-4.5,48V72"></path></g></g></g><defs><clippath id="dc-time-chart-clip"><rect width="910" height="120"></rect></clippath></defs>
+								</svg>
+					</div>
+					<div class="col-lg-4 col-md-4" id="dc-ctc-chart">
+					<!-- <div class="span4 dc-chart" id="dc-ctc-chart"> -->
+					  <h4>
+						CTC range
+						<span>
+						  <a class="reset" href="javascript:ctcfchart.filterAll();dc.redrawAll();" style="display: none;">
+							reset
+						  </a>
+						</span>
+					  </h4>
+						<div class="clearfix"></div>
+					</div>
+					<div class="col-lg-4 col-md-4" id="dc-island-chart">
+					<!-- <div class="span4 dc-chart" id="dc-island-chart"> -->
+					  <h4>
+						Experience Bins
+						<span>
+						  <a class="reset" href="javascript:islandChart.filterAll();dc.redrawAll();" style="display: none;">
+							reset
+						  </a>
+						</span>
+					  </h4>
+					</div>   
+					<!-- <div class="col-lg-4 col-md-4" id="dc-cmths-chart"> -->
+					<div class="col-lg-4 col-md-4">
+					<!-- <div class="span4" id="dc-cmths-chart"> -->
+					  <!-- <h4>Contract Months</h4> -->
+					  <!-- <span> -->
+						  <!-- <a class="reset" href="javascript:cmthsfchart.filterAll();dc.redrawAll();" style="display: none;"> -->
+							<!-- reset -->
+						  <!-- </a> -->
+						<!-- </span> -->
+					  <!-- </h4> -->
+					</div> 
+				</div> 
+			</div> 
+		</div> 
+  
+
+
+<div id="search">
+</div>
+
+<div style="clear:both;">
+  <div class="row">
+	<div class="col-lg-12 col-md-12 dc-chart" style="margin-top:20px;">
+      <table class="table table-hover dc-chart" id="dc-table-graph">
+        <thead>
+          <tr class="header">
+            <th>Requirement ID</th>
+            <th>Role Name</th>
+            <th>Posted Date</th>
+            <th>Starting Date</th>
+            <th>Duration</th>
+			<th>Experience</th>
+            <th>Skill</th>
+			<th>Branch</th>
+          </tr>
+        </thead>
+      <tbody><tr class="dc-table-group"><td class="dc-table-label" colspan="7">Data Table</td></tr>
+	  <tr class="dc-table-row">
+      <td class="dc-table-column _0">2013-08-17</td>
+      <td class="dc-table-column _1">M</td>
+      <td class="dc-table-column _2">24</td>
+      <td class="dc-table-column _3">12</td>
+      <td class="dc-table-column _4">3.1</td>
+      <td class="dc-table-column _5">12</td>
+  	  <td class="dc-table-column _6">Manager</td>
+	  <td class="dc-table-column _7">Java</td>
+   </tr>
+	  
+	  </table>
+	  <div style="float: left">
+      <button class="btn btn-primary" id="download">download</button>
+    </div>
+	</div>
+  </div>
+</div>
+</div>
+
+  
+<script type="text/javascript">
+
+// Create the dc.js chart objects & link to div
+var magnitudeChart = new dc.BarChart("#dc-magnitude-chart"); // duration
+var depthChart = new dc.BarChart("#dc-depth-chart"); //exp
+var islandChart = new dc.PieChart("#dc-island-chart"); //gender/experience bins
+var ctcfchart = new dc.BarChart("#dc-ctc-chart"); // ctcfchart
+var cmthsfchart = new dc.BarChart("#dc-cmths-chart"); // ctcfchart
+var rolerowchart = new dc.RowChart("#dc-role-chart"); //row chart for role name
+var skillselectmenu = new dc.SelectMenu("#dc-skill-menu"); // table for skills
+var dataTable = new dc.DataTable("#dc-table-graph"); // table at the bottom
+var timeChart = new dc.LineChart("#dc-time-chart"); //j date
+var timeChartt = new dc.LineChart("#dc-time-chartt"); //j date
+var skillselectmenu2 = new dc.SelectMenu("#dc-skill-menu2"); // RGS ID
+var skillselectmenu3 = new dc.SelectMenu("#dc-skill-menu3"); // Reqrtr name
+var searchbox = new dc.TextFilterWidget("#search")
+var skillselectmenu4 = new dc.SelectMenu("#dc-skill-menu4"); // branch name
+var skillselectmenu5 = new dc.SelectMenu("#dc-skill-menu5"); // table for skills
+var skillselectmenu6 = new dc.SelectMenu("#dc-skill-menu6"); // table for skills
+
+
+
+
+// load data from a csv file
+
+d3.csv("https://raw.githubusercontent.com/rkcodez/deta/main/dtaa.csv").then(function (data) {
+
+   // var dtgFormat = d3.timeFormat("%Y%m%d");
+   var dtgFormat = d3.timeParse("%Y%m%d");
+
+  // format our data	 
+  data.forEach(function(d) { 
+    d.dur   = +d.duration;
+    d.depth = +d.exp;
+	d.lat   = +d.gender;
+	d.exp   = d.minmax;
+    d.ctc   = +d.ctc;
+	d.cmths = +d.cmths;
+	d.rn = d.role;
+	d.rqtr = d.rname;
+	d.bn = d.branch;
+	d.sk = d.skill;	
+	d.req = +d.reqid;
+	d.dtg = dtgFormat(d.jdate.substr(0,8));  
+	d.dtgg = dtgFormat(d.pdate.substr(0,8));  
+  });
+  
+ 
+  // Run the data through crossfilter and load our 'facts'
+  var facts = crossfilter(data);
+  var all = facts.groupAll();
+
+  // for Magnitude
+  var durValue = facts.dimension(function (d) {
+    return d.dur;       // add the magnitude dimension
+  });
+  var durValueGroupSum = durValue.group()
+    .reduceSum(function(d) { return d.dur; });	// sums 
+  var durValueGroupCount = durValue.group()
+    .reduceCount(function(d) { return d.dur; }) // counts 
+
+  // for Depth
+  var depthValue = facts.dimension(function (d) {
+    return d.depth;
+  });
+  var depthValueGroup = depthValue.group();
+
+  // Setup the charts
+
+  // count all the facts
+  dc.dataCount(".dc-data-count")
+    .dimension(facts)
+    .group(all);
+    
+  // Magnitide Bar Graph Counted
+  magnitudeChart.width(480)
+    .height(150)
+	.margins({top: 10, right: 10, bottom: 20, left: 40})
+    .dimension(durValue)
+    .group(durValueGroupCount)
+	.transitionDuration(500)
+    .centerBar(true)	
+	.gap(1)  // 65 = norm
+//  .filter([3, 5])
+    .x(d3.scaleLinear().domain([0.5, 7.5]))
+	.elasticX(true)
+	.elasticY(true)
+	.xAxis().tickFormat();	
+	
+	
+	
+  // Depth bar graph
+  depthChart.width(480)
+    .height(150)
+    .margins({top: 10, right: 10, bottom: 20, left: 40})
+    .dimension(depthValue)
+    .group(depthValueGroup)
+	.transitionDuration(500)
+    .centerBar(true)	
+	.gap(1)  
+    .x(d3.scaleLinear().domain([0, 70]))
+	.elasticX(true)
+	.elasticY(true)
+	.xAxis().tickFormat(function(v) {return v;});
+	
+	
+	  // Pie Chart
+  var islands = facts.dimension(function (d) {
+    return d.exp
+    });
+  var islandsGroup = islands.group();
+    
+	// islands pie chart
+  islandChart.width(450)
+    .height(220)
+    .radius(100)
+    .innerRadius(30)
+    .dimension(islands)
+    .title(function(d){return d.value;})
+    .group(islandsGroup)
+    .legend(dc.legend());
+
+
+// search box
+
+	searchbox
+	.dimension(facts);
+
+
+   //ctcf row chart
+  var ctcf = facts.dimension(function (d) {
+    return d.ctc;
+  });
+  var ctcfGroup = ctcf.group();
+
+//ctcf Row chart
+	ctcfchart.width(300)
+    .height(220)
+    .margins({top: 10, right: 10, bottom: 20, left: 40})
+    .dimension(ctcf)
+    .group(ctcfGroup)
+	.transitionDuration(500)
+    .centerBar(true)	
+	.gap(1)  // 65 = norm
+//  .filter([3, 5])
+    .x(d3.scaleLinear().domain(d3.extent(data, function(d) { return d.dtg; })))
+	.elasticX(true)
+	.elasticY(true)
+	//.xAxis().tickFormat();
+	.xAxis().ticks(4);
+
+//cmthsf row chart
+  var cmthsf = facts.dimension(function (d) {
+    return d.cmths;
+  });
+  var cmthsfGroup = cmthsf.group();
+	
+
+//cmthsf Row chart
+	cmthsfchart.width(300)
+    .height(220)
+    .margins({top: 10, right: 10, bottom: 20, left: 40})
+    .dimension(cmthsf)
+    .group(cmthsfGroup)
+	.transitionDuration(500)
+    .centerBar(true)	
+	.gap(1)  // 65 = norm
+//  .filter([3, 5])
+    .x(d3.scaleLinear().domain(d3.extent(data, function(d) { return d.dtg; })))
+	.elasticX(true)
+	.elasticY(true)
+	//.xAxis().tickFormat();
+	.xAxis().ticks(4);
+
+
+
+
+// role name row chart
+  
+  var rnf = facts.dimension(function (d) {
+    return d.rn;
+  });
+  var rnfGroup = rnf.group();
+  
+  
+   // skill name row chart
+  
+  var skf = facts.dimension(function (d) {
+    return d.sk;
+  });
+  var skfGroup = skf.group();
+	
+  
+	//first row chart for role name
+	
+	rolerowchart
+	.width(550)
+	.height(350)
+	.dimension(rnf)
+	.group(rnfGroup)
+	
+	
+	
+	//select menu for skill name
+	
+	skillselectmenu
+	.width(550)
+	.height(450)
+	.dimension(skf)
+    .group(skfGroup)
+	.multiple(true)
+    .numberVisible(25)
+    .controlsUseVisibility(true);
+	
+	
+	// skill name row chart
+
+	var reqf = facts.dimension(function (d) {
+		return d.req;
+	});
+	var reqfGroup = reqf.group();
+	
+	//select menu for skill name
+	
+	skillselectmenu2
+	.width(550)
+	.height(450)
+	.dimension(reqf)
+    .group(reqfGroup)
+//	.multiple(true)
+//  .numberVisible(25)
+//	.controlsUseVisibility(true);
+	.order(d3.descending); 
+
+
+	// skill name row chart
+
+	var rqtrf = facts.dimension(function (d) {
+		return d.rname;
+	});
+	var rqtrfGroup = rqtrf.group();
+	
+	//select menu for skill name
+	
+	skillselectmenu3
+	.width(550)
+	.height(450)
+	.dimension(rqtrf)
+    .group(rqtrfGroup)
+//	.multiple(true)
+//  .numberVisible(25)
+//	.controlsUseVisibility(true);
+	.order(d3.descending); 
+	
+		// skill name row chart
+
+	var bnf = facts.dimension(function (d) {
+		return d.bn;
+	});
+	var bnfGroup = bnf.group();
+	
+	//select menu for skill name
+	
+	skillselectmenu4
+	.width(550)
+	.height(450)
+	.dimension(bnf)
+    .group(bnfGroup)
+//	.multiple(true)
+//  .numberVisible(25)
+//	.controlsUseVisibility(true);
+	.order(d3.descending); 
+	
+		// skill name row chart
+
+	var bnff = facts.dimension(function (d) {
+		return d.bn;
+	});
+	var bnfGroupp = bnff.group();
+	
+		//select menu for skill name
+
+	skillselectmenu6
+	.width(550)
+	.height(450)
+	.dimension(bnf)
+    .group(bnfGroup)
+	.multiple(true)
+    .numberVisible(25)
+	.controlsUseVisibility(true)
+	.order(d3.descending); 
+	
+
+ 
+ 
+ 		// skill name row chart
+
+	var volumeByHourrr = facts.dimension(function (d) {
+		return d.pdate;
+	});
+	var volumeByHourGrouppp = volumeByHourrr.group();
+	
+	//select menu for skill name
+	
+	skillselectmenu5
+	.width(550)
+	.height(450)
+	.dimension(volumeByHourrr)
+    .group(volumeByHourGrouppp)
+//	.multiple(true)
+//  .numberVisible(25)
+//	.controlsUseVisibility(true);
+
+ 
+		
+	
+	
+   // time chart
+	var volumeByHour = facts.dimension(function(d) {
+	return d.dtg;
+	});
+	var volumeByHourGroup = volumeByHour.group()
+    .reduceCount(function(d) { return d.dtg; });
+	
+	 // time chart2 
+	var volumeByHourr = facts.dimension(function(d) {
+	return d.dtgg;
+	});
+	var volumeByHourGroupp = volumeByHourr.group()
+    .reduceCount(function(d) { return d.dtgg; });
+	
+		
+
+	
+	
+  // time graph
+  timeChart
+    .width(960)
+    .height(150)
+    .transitionDuration(500)
+//  .mouseZoomable(true)
+    .margins({top: 10, right: 10, bottom: 20, left: 40})
+    .dimension(volumeByHour)
+    .group(volumeByHourGroup)
+	//.x(d3.scale.linear().domain([Date.UTC(2020, 12, 12, 23, 59, 56), Date.UTC(2021, 2, 19, 0, 0, 4)]))	
+	//.x(d3.scale.linear().domain([Date.UTC(2020, 12, 12, 23, 59, 56), Date.UTC(2021, 2, 19, 0, 0, 4)]))	
+	.elasticY(true)
+    //.x(d3.scaleTime().domain(d3.extent(data, function(d) { return d.dtg; })))
+    //.x(d3.scaleTime().domain(d3.extent(data, function(d) { return d.dtg; })))
+//    .x(d3.scaleTime().range(d3.extent(data, function(d) { return d.dtg; })))
+	.x(d3.scaleTime().domain([new Date(1985, 0, 1), new Date(2012, 11, 31)]))
+//    .x(d3.scaleTime().domain([Date.UTC(2020, 12, 12, 23, 59, 56), Date.UTC(2021, 2, 19, 0, 0, 4)]))
+	.elasticX(true)
+   // .xAxis();
+	
+	  // time graph
+  timeChartt
+    .width(960)
+    .height(150)
+    .transitionDuration(500)
+//  .mouseZoomable(true)
+    .margins({top: 10, right: 10, bottom: 20, left: 40})
+    .dimension(volumeByHourr)
+    .group(volumeByHourGroupp)
+	//.x(d3.scale.linear().domain([Date.UTC(2020, 12, 12, 23, 59, 56), Date.UTC(2021, 2, 19, 0, 0, 4)]))	
+	//.x(d3.scale.linear().domain([Date.UTC(2020, 12, 12, 23, 59, 56), Date.UTC(2021, 2, 19, 0, 0, 4)]))	
+	//.x(d3.scaleTime().domain(d3.extent(data, function(d) { return d.dtg; })))
+    //.x(d3.scaleTime().domain(d3.extent(data, function(d) { return d.dtg; })))
+//    .x(d3.scaleTime().range(d3.extent(data, function(d) { return d.dtg; })))
+	.x(d3.scaleTime().domain([new Date(2020, 11, 11), new Date(2021, 3, 3)]))
+//    .x(d3.scaleTime().domain([Date.UTC(2020, 12, 12, 23, 59, 56), Date.UTC(2021, 2, 19, 0, 0, 4)]))
+	.elasticX(true)
+	.elasticY(true)
+    //.xAxis();
+	
+	// Create datatable dimension
+  var timeDimension = facts.dimension(function (d) {
+  return d.dtg;
+  });
+
+ // Table of earthquake data
+	dataTable
+	.width(960)
+	.height(800)
+    .dimension(timeDimension)
+	.group(function(d) { return "Data Table"
+	})
+	.size(10)
+    .columns([
+      function(d) { return d.req; },
+	  function(d) { return d.rn; },
+	  function(d) { return  d.dtg.getDay() + "-" + d.dtg.getMonth() + "-" + d.dtg.getFullYear();},
+	  function(d) { return  d.dtgg.getDay() + "-" + d.dtgg.getMonth() + "-" + d.dtgg.getFullYear();},
+	  function(d) { return d.dur; },
+	  function(d) { return d.exp; },
+	  function(d) { return d.sk; },
+	  function(d) { return d.bn; },
+    ])
+    .sortBy(function(d){ return d.dtg; })
+    .order(d3.descending); 
+	
+	
+	d3.select('#download')
+  .on('click', function() {
+        var data = timeDimension.top(Infinity);
+        <!-- { -->
+            <!-- data = data.map(function(d) { -->
+                <!-- var row = {}; -->
+                <!-- dataTable.columns().forEach(function(c) { -->
+                    <!-- row[dataTable._columnHeaderFormat(c)] = dataTable.columnValueFormat(c, d); -->
+                <!-- }); -->
+                <!-- return row; -->
+            <!-- }); -->
+        <!-- } -->
+        var blob = new Blob([d3.csvFormat(data)], {type: "text/csv;charset=utf-8"});
+        saveAs(blob, 'data.csv');
+});
+
+
+ 
+  // Render the Charts
+	dc.renderAll();  
+})
+	
+ .catch(function(error){
+     // handle error   
+});
+
+</script>
+    
+</body>
+</html>
